@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">{{ site.title }}</h1>
+
+  <h2>Recent blog posts</h2>
+    {% for post in site.posts limit:10 %}
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+  <div class="post-content" itemprop="articleBody">
+    <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time> • {{ post.excerpt }}
+  </div>
+    {% endfor %}
+
+  <h2>Blog links</h2>
+  <ul>
+  <li><a href="{{ "/posts.html" | prepend: site.baseurl }}">All posts</a></li>
+  <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via RSS</a></li>
+  </ul>
+
+</div>

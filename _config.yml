@@ -1,0 +1,11 @@
+# Site settings
+title: Finnix Blog
+description: Finnix development weblog
+baseurl: ""
+url: "http://blog.finnix.org"
+top_links:
+  - {title: "Download", url: "http://www.finnix.org/Download"}
+  - {title: "Wiki", url: "http://www.finnix.org/"}
+
+# Build settings
+markdown: kramdown
