@@ -6,8 +6,6 @@ date: 2011-10-19 22:36:37
 guid: http://blog.finnix.org/2011/10/19/finnix-mirror-status-site-now-available/
 id: 316
 layout: post
-openid_comments:
-- a:2:{i:0;s:6:"293819";i:1;s:6:"293820";}
 permalink: /2011/10/19/finnix-mirror-status-site-now-available/
 title: Finnix mirror status site now available
 ---

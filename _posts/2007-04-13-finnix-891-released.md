@@ -7,8 +7,6 @@ date: 2007-04-13 20:55:38
 guid: http://blog.finnix.org/2007/04/13/finnix-891-released/
 id: 60
 layout: post
-openid_comments:
-- a:1:{i:0;s:6:"276372";}
 permalink: /2007/04/13/finnix-891-released/
 title: Finnix 89.1 Released
 ---

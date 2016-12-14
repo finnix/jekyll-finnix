@@ -7,8 +7,6 @@ date: 2012-12-25 00:11:45
 guid: http://blog.finnix.org/2012/12/25/finnix-107-released/
 id: 436
 layout: post
-openid_comments:
-- a:1:{i:0;i:402721;}
 permalink: /2012/12/25/finnix-107-released/
 title: Finnix 107 released
 ---

@@ -7,8 +7,6 @@ date: 2011-06-30 14:27:47
 guid: http://blog.finnix.org/2011/06/30/new-compression-for-finnix-102/
 id: 246
 layout: post
-openid_comments:
-- a:1:{i:0;s:6:"273183";}
 permalink: /2011/06/30/new-compression-for-finnix-102/
 title: New compression for Finnix 102
 ---

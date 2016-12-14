@@ -7,8 +7,6 @@ date: 2012-10-29 00:00:25
 guid: http://blog.finnix.org/2012/10/29/finnix-106-released/
 id: 416
 layout: post
-openid_comments:
-- a:1:{i:0;s:6:"353077";}
 permalink: /2012/10/29/finnix-106-released/
 title: Finnix 106 released
 ---

@@ -6,8 +6,6 @@ date: 2011-08-14 02:37:17
 guid: http://blog.finnix.org/2011/08/14/powerpc-distributions/
 id: 283
 layout: post
-openid_comments:
-- a:1:{i:0;s:6:"273609";}
 permalink: /2011/08/14/powerpc-distributions/
 title: PowerPC distributions
 ---

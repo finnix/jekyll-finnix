@@ -7,8 +7,6 @@ date: 2012-07-13 00:04:04
 guid: http://blog.finnix.org/2012/07/13/finnix-105-released/
 id: 409
 layout: post
-openid_comments:
-- a:2:{i:0;s:6:"308613";i:1;s:6:"308616";}
 permalink: /2012/07/13/finnix-105-released/
 title: Finnix 105 released
 ---

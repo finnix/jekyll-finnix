@@ -7,8 +7,6 @@ date: 2010-11-19 03:07:58
 guid: http://blog.finnix.org/2010/11/19/clarification-on-finnix-for-powerpc/
 id: 158
 layout: post
-openid_comments:
-- a:2:{i:0;s:6:"252643";i:1;s:6:"258018";}
 permalink: /2010/11/19/clarification-on-finnix-for-powerpc/
 title: Clarification on Finnix for PowerPC
 ---
