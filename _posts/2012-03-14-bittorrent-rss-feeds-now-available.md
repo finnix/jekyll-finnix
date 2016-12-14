@@ -4,7 +4,7 @@ title: BitTorrent RSS feeds now available
 date: 2012-03-14T00:48:22+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=377
+guid: http://blog.finnix.org/2012/03/14/bittorrent-rss-feeds-now-available/
 permalink: /2012/03/14/bittorrent-rss-feeds-now-available/
 categories:
   - Finnix

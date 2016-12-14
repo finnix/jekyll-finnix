@@ -4,7 +4,7 @@ title: Finnix 91.0 Released
 date: 2008-01-28T13:51:09+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2008/01/28/finnix-910-released/
+guid: http://blog.finnix.org/2008/01/28/finnix-910-released/
 permalink: /2008/01/28/finnix-910-released/
 categories:
   - Announcements

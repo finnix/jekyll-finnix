@@ -4,7 +4,7 @@ title: Finnix Codenames
 date: 2006-05-05T00:26:52+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/05/05/finnix-codenames/
+guid: http://blog.finnix.org/2006/05/05/finnix-codenames/
 permalink: /2006/05/05/finnix-codenames/
 categories:
   - Development

@@ -4,7 +4,7 @@ title: Finnix development snapshots now available
 date: 2006-02-03T18:31:25+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/02/03/finnix-development-snapshots-now-available/
+guid: http://blog.finnix.org/2006/02/03/finnix-development-snapshots-now-available/
 permalink: /2006/02/03/finnix-development-snapshots-now-available/
 categories:
   - Development

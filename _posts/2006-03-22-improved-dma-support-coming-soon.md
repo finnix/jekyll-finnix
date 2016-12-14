@@ -4,7 +4,7 @@ title: Improved DMA Support Coming Soon
 date: 2006-03-22T23:40:44+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/03/22/improved-dma-support-coming-soon/
+guid: http://blog.finnix.org/2006/03/22/improved-dma-support-coming-soon/
 permalink: /2006/03/22/improved-dma-support-coming-soon/
 categories:
   - Development

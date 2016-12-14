@@ -4,7 +4,7 @@ title: Mirrors Requested
 date: 2006-08-20T19:23:01+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/08/20/mirrors-requested/
+guid: http://blog.finnix.org/2006/08/20/mirrors-requested/
 permalink: /2006/08/20/mirrors-requested/
 categories:
   - Finnix

@@ -4,7 +4,7 @@ title: The future is now!
 date: 2006-01-30T02:31:34+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/30/the-future-is-now/
+guid: http://blog.finnix.org/2006/01/30/the-future-is-now/
 permalink: /2006/01/30/the-future-is-now/
 categories:
   - Development

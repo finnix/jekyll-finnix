@@ -4,7 +4,7 @@ title: Finnix 86.1-pre1 Released
 date: 2005-11-16T13:02:31+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2005/11/16/finnix-861-pre1-released/
+guid: http://blog.finnix.org/2005/11/16/finnix-861-pre1-released/
 permalink: /2005/11/16/finnix-861-pre1-released/
 categories:
   - Announcements

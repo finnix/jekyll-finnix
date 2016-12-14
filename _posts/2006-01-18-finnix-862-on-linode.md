@@ -4,7 +4,7 @@ title: Finnix 86.2 on Linode
 date: 2006-01-18T10:06:51+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/18/finnix-862-on-linode/
+guid: http://blog.finnix.org/2006/01/18/finnix-862-on-linode/
 permalink: /2006/01/18/finnix-862-on-linode/
 categories:
   - Finnix

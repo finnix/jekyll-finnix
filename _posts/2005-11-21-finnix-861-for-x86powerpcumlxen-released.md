@@ -4,7 +4,7 @@ title: Finnix 86.1 for x86/PowerPC/UML/Xen Released
 date: 2005-11-21T21:04:32+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2005/11/21/finnix-861-for-x86powerpcumlxen-released/
+guid: http://blog.finnix.org/2005/11/21/finnix-861-for-x86powerpcumlxen-released/
 permalink: /2005/11/21/finnix-861-for-x86powerpcumlxen-released/
 categories:
   - Announcements

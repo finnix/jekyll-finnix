@@ -4,7 +4,7 @@ title: Finnix 101 released
 date: 2010-12-25T00:00:08+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=182
+guid: http://blog.finnix.org/2010/12/25/finnix-101-released/
 permalink: /2010/12/25/finnix-101-released/
 categories:
   - Announcements

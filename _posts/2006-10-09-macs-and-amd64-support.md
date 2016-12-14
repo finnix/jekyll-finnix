@@ -4,7 +4,7 @@ title: Macs, and AMD64 Support
 date: 2006-10-09T01:35:02+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/10/09/macs-and-amd64-support/
+guid: http://blog.finnix.org/2006/10/09/macs-and-amd64-support/
 permalink: /2006/10/09/macs-and-amd64-support/
 categories:
   - Development

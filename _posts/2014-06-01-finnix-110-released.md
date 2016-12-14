@@ -4,7 +4,7 @@ title: Finnix 110 released
 date: 2014-06-01T01:20:46+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=476
+guid: http://blog.finnix.org/2014/06/01/finnix-110-released/
 permalink: /2014/06/01/finnix-110-released/
 categories:
   - Announcements

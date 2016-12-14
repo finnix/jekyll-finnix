@@ -4,7 +4,7 @@ title: Finnix 100 bootchart report
 date: 2010-11-05T01:20:08+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=139
+guid: http://blog.finnix.org/2010/11/05/finnix-100-bootchart-report/
 permalink: /2010/11/05/finnix-100-bootchart-report/
 categories:
   - Finnix

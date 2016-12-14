@@ -4,7 +4,7 @@ title: SourceForge Downloads Pass 10,000
 date: 2006-03-28T02:34:30+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/03/28/sourceforge-downloads-pass-10000/
+guid: http://blog.finnix.org/2006/03/28/sourceforge-downloads-pass-10000/
 permalink: /2006/03/28/sourceforge-downloads-pass-10000/
 categories:
   - Announcements

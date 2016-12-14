@@ -4,7 +4,7 @@ title: Finnix 108 released
 date: 2013-05-09T07:55:18+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=456
+guid: http://blog.finnix.org/2013/05/09/finnix-108-released/
 permalink: /2013/05/09/finnix-108-released/
 categories:
   - Announcements

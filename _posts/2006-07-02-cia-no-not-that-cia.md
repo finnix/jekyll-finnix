@@ -4,7 +4,7 @@ title: CIA (No, Not That CIA)
 date: 2006-07-02T19:36:46+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/07/02/cia-no-not-that-cia/
+guid: http://blog.finnix.org/2006/07/02/cia-no-not-that-cia/
 permalink: /2006/07/02/cia-no-not-that-cia/
 categories:
   - Development

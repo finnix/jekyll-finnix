@@ -4,7 +4,7 @@ title: 'Two small updates: finnix-scripts, finnix-3ware-install'
 date: 2006-01-15T00:26:25+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/15/two-small-updates-finnix-scripts-finnix-3ware-install/
+guid: http://blog.finnix.org/2006/01/15/two-small-updates-finnix-scripts-finnix-3ware-install/
 permalink: /2006/01/15/two-small-updates-finnix-scripts-finnix-3ware-install/
 categories:
   - Announcements

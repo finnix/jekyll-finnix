@@ -4,7 +4,7 @@ title: Host Virtual sponsors Finnix, uses Finnix
 date: 2011-07-26T09:59:26+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=254
+guid: http://blog.finnix.org/2011/07/26/host-virtual-sponsors-finnix-uses-finnix/
 permalink: /2011/07/26/host-virtual-sponsors-finnix-uses-finnix/
 categories:
   - Finnix

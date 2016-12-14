@@ -4,7 +4,7 @@ title: Finnix not dead, just resting
 date: 2010-10-23T20:21:57+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=114
+guid: http://blog.finnix.org/2010/10/23/finnix-not-dead-just-resting/
 permalink: /2010/10/23/finnix-not-dead-just-resting/
 categories:
   - Development

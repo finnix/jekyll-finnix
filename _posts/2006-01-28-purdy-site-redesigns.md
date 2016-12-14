@@ -4,7 +4,7 @@ title: Purdy site "redesigns"
 date: 2006-01-28T17:29:07+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/28/purdy-site-redesigns/
+guid: http://blog.finnix.org/2006/01/28/purdy-site-redesigns/
 permalink: /2006/01/28/purdy-site-redesigns/
 categories:
   - Finnix

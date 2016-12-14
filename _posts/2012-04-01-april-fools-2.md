@@ -4,7 +4,7 @@ title: April Fools
 date: 2012-04-01T22:45:43+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=396
+guid: http://blog.finnix.org/2012/04/01/april-fools-2/
 permalink: /2012/04/01/april-fools-2/
 categories:
   - Finnix

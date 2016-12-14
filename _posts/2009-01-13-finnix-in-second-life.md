@@ -4,7 +4,7 @@ title: Finnix in Second Life
 date: 2009-01-13T21:35:58+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=83
+guid: http://blog.finnix.org/2009/01/13/finnix-in-second-life/
 permalink: /2009/01/13/finnix-in-second-life/
 categories:
   - Finnix

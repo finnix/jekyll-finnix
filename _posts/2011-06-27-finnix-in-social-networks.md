@@ -4,7 +4,7 @@ title: Finnix in social networks
 date: 2011-06-27T17:46:17+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=231
+guid: http://blog.finnix.org/2011/06/27/finnix-in-social-networks/
 permalink: /2011/06/27/finnix-in-social-networks/
 categories:
   - Finnix

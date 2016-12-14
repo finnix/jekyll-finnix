@@ -4,7 +4,7 @@ title: Finnix 102 released
 date: 2011-07-23T00:00:16+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=260
+guid: http://blog.finnix.org/2011/07/23/finnix-102-released/
 permalink: /2011/07/23/finnix-102-released/
 categories:
   - Announcements

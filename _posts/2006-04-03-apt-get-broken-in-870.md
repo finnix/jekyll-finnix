@@ -4,7 +4,7 @@ title: apt-get Broken in 87.0
 date: 2006-04-03T03:17:15+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/04/03/apt-get-broken-in-870/
+guid: http://blog.finnix.org/2006/04/03/apt-get-broken-in-870/
 permalink: /2006/04/03/apt-get-broken-in-870/
 categories:
   - Announcements

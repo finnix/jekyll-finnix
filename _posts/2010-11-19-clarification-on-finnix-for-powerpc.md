@@ -4,7 +4,7 @@ title: Clarification on Finnix for PowerPC
 date: 2010-11-19T03:07:58+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=158
+guid: http://blog.finnix.org/2010/11/19/clarification-on-finnix-for-powerpc/
 permalink: /2010/11/19/clarification-on-finnix-for-powerpc/
 openid_comments:
   - 'a:2:{i:0;s:6:"252643";i:1;s:6:"258018";}'

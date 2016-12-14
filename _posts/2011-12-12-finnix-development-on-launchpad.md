@@ -4,7 +4,7 @@ title: Finnix development on Launchpad
 date: 2011-12-12T22:56:08+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=330
+guid: http://blog.finnix.org/2011/12/12/finnix-development-on-launchpad/
 permalink: /2011/12/12/finnix-development-on-launchpad/
 categories:
   - Development

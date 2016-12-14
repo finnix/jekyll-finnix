@@ -4,7 +4,7 @@ title: Finnix Trademark Application
 date: 2006-08-24T01:04:25+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/08/24/finnix-trademark-application/
+guid: http://blog.finnix.org/2006/08/24/finnix-trademark-application/
 permalink: /2006/08/24/finnix-trademark-application/
 categories:
   - Finnix

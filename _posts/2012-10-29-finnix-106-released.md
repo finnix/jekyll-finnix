@@ -4,7 +4,7 @@ title: Finnix 106 released
 date: 2012-10-29T00:00:25+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=416
+guid: http://blog.finnix.org/2012/10/29/finnix-106-released/
 permalink: /2012/10/29/finnix-106-released/
 openid_comments:
   - 'a:1:{i:0;s:6:"353077";}'

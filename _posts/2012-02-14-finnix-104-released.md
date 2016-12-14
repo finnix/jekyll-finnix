@@ -4,7 +4,7 @@ title: Finnix 104 released
 date: 2012-02-14T00:00:08+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=364
+guid: http://blog.finnix.org/2012/02/14/finnix-104-released/
 permalink: /2012/02/14/finnix-104-released/
 categories:
   - Announcements

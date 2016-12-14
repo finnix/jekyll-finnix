@@ -4,7 +4,7 @@ title: Finnix 86.0-pre3 Released
 date: 2005-10-14T21:22:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/06/24/finnix-860-pre3-released/
+guid: http://blog.finnix.org/2005/10/14/finnix-860-pre3-released/
 permalink: /2005/10/14/finnix-860-pre3-released/
 categories:
   - Announcements

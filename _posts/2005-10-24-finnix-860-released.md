@@ -4,7 +4,7 @@ title: Finnix 86.0 Released
 date: 2005-10-24T00:01:16+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/06/24/finnix-860-released/
+guid: http://blog.finnix.org/2005/10/24/finnix-860-released/
 permalink: /2005/10/24/finnix-860-released/
 categories:
   - Announcements

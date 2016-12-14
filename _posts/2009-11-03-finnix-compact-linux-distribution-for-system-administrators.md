@@ -4,7 +4,7 @@ title: 'Finnix: Compact Linux distribution for system administrators'
 date: 2009-11-03T15:16:41+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=99
+guid: http://blog.finnix.org/2009/11/03/finnix-compact-linux-distribution-for-system-administrators/
 permalink: /2009/11/03/finnix-compact-linux-distribution-for-system-administrators/
 categories:
   - Finnix

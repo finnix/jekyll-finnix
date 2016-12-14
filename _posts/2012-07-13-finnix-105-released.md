@@ -4,7 +4,7 @@ title: Finnix 105 released
 date: 2012-07-13T00:04:04+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=409
+guid: http://blog.finnix.org/2012/07/13/finnix-105-released/
 permalink: /2012/07/13/finnix-105-released/
 openid_comments:
   - 'a:2:{i:0;s:6:"308613";i:1;s:6:"308616";}'

@@ -4,7 +4,7 @@ title: New compression for Finnix 102
 date: 2011-06-30T14:27:47+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=246
+guid: http://blog.finnix.org/2011/06/30/new-compression-for-finnix-102/
 permalink: /2011/06/30/new-compression-for-finnix-102/
 openid_comments:
   - 'a:1:{i:0;s:6:"273183";}'

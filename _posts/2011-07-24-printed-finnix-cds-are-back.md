@@ -4,7 +4,7 @@ title: Printed Finnix CDs are back!
 date: 2011-07-24T23:06:33+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=268
+guid: http://blog.finnix.org/2011/07/24/printed-finnix-cds-are-back/
 permalink: /2011/07/24/printed-finnix-cds-are-back/
 categories:
   - Finnix

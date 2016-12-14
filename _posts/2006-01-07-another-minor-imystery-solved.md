@@ -4,7 +4,7 @@ title: Another minor iMystery solved
 date: 2006-01-07T19:49:30+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/07/another-minor-imystery-solved/
+guid: http://blog.finnix.org/2006/01/07/another-minor-imystery-solved/
 permalink: /2006/01/07/another-minor-imystery-solved/
 categories:
   - Development

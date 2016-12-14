@@ -4,7 +4,7 @@ title: On August 29, 2007, Finnix became self-aware.
 date: 2006-01-12T20:14:54+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/12/on-august-29-2007-finnix-became-self-aware/
+guid: http://blog.finnix.org/2006/01/12/on-august-29-2007-finnix-became-self-aware/
 permalink: /2006/01/12/on-august-29-2007-finnix-became-self-aware/
 categories:
   - Development

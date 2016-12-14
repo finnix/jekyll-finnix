@@ -4,7 +4,7 @@ title: PowerPC distributions
 date: 2011-08-14T02:37:17+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=283
+guid: http://blog.finnix.org/2011/08/14/powerpc-distributions/
 permalink: /2011/08/14/powerpc-distributions/
 openid_comments:
   - 'a:1:{i:0;s:6:"273609";}'

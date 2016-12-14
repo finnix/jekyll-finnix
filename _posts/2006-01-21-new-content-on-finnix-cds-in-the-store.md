@@ -4,7 +4,7 @@ title: New content on Finnix CDs in the store
 date: 2006-01-21T23:00:26+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/21/new-content-on-finnix-cds-in-the-store/
+guid: http://blog.finnix.org/2006/01/21/new-content-on-finnix-cds-in-the-store/
 permalink: /2006/01/21/new-content-on-finnix-cds-in-the-store/
 categories:
   - Announcements

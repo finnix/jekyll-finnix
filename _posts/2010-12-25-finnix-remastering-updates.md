@@ -4,7 +4,7 @@ title: Finnix remastering updates
 date: 2010-12-25T11:41:32+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=191
+guid: http://blog.finnix.org/2010/12/25/finnix-remastering-updates/
 permalink: /2010/12/25/finnix-remastering-updates/
 categories:
   - Development

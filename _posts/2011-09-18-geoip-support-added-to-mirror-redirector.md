@@ -4,7 +4,7 @@ title: GeoIP support added to mirror redirector
 date: 2011-09-18T02:36:49+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=309
+guid: http://blog.finnix.org/2011/09/18/geoip-support-added-to-mirror-redirector/
 permalink: /2011/09/18/geoip-support-added-to-mirror-redirector/
 categories:
   - Finnix

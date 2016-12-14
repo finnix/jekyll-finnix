@@ -4,7 +4,7 @@ title: Disappearing CDs
 date: 2006-01-18T19:53:17+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/18/disappearing-cds/
+guid: http://blog.finnix.org/2006/01/18/disappearing-cds/
 permalink: /2006/01/18/disappearing-cds/
 categories:
   - Finnix

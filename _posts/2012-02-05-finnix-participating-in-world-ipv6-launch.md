@@ -4,7 +4,7 @@ title: Finnix participating in World IPv6 Launch
 date: 2012-02-05T13:57:29+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=356
+guid: http://blog.finnix.org/2012/02/05/finnix-participating-in-world-ipv6-launch/
 permalink: /2012/02/05/finnix-participating-in-world-ipv6-launch/
 categories:
   - Finnix

@@ -4,7 +4,7 @@ title: Knoppix 5.0 CeBIT Available
 date: 2006-03-19T20:29:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/03/19/knoppix-50-cebit-available/
+guid: http://blog.finnix.org/2006/03/19/knoppix-50-cebit-available/
 permalink: /2006/03/19/knoppix-50-cebit-available/
 categories:
   - Finnix

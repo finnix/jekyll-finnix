@@ -4,7 +4,7 @@ title: Finnix Updates
 date: 2007-07-22T20:11:13+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2007/07/22/finnix-updates/
+guid: http://blog.finnix.org/2007/07/22/finnix-updates/
 permalink: /2007/07/22/finnix-updates/
 categories:
   - Development

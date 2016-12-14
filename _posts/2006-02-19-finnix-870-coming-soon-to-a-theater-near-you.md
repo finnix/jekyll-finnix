@@ -4,7 +4,7 @@ title: Finnix 87.0, coming soon to a theater near you
 date: 2006-02-19T23:31:14+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/02/19/finnix-870-coming-soon-to-a-theater-near-you/
+guid: http://blog.finnix.org/2006/02/19/finnix-870-coming-soon-to-a-theater-near-you/
 permalink: /2006/02/19/finnix-870-coming-soon-to-a-theater-near-you/
 categories:
   - Development

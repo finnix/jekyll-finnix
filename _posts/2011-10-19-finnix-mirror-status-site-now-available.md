@@ -4,7 +4,7 @@ title: Finnix mirror status site now available
 date: 2011-10-19T22:36:37+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=316
+guid: http://blog.finnix.org/2011/10/19/finnix-mirror-status-site-now-available/
 permalink: /2011/10/19/finnix-mirror-status-site-now-available/
 openid_comments:
   - 'a:2:{i:0;s:6:"293819";i:1;s:6:"293820";}'

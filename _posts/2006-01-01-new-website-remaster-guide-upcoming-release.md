@@ -4,7 +4,7 @@ title: New website, remaster guide, upcoming release
 date: 2006-01-01T23:18:35+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/01/new-website-remaster-guide-upcoming-release/
+guid: http://blog.finnix.org/2006/01/01/new-website-remaster-guide-upcoming-release/
 permalink: /2006/01/01/new-website-remaster-guide-upcoming-release/
 categories:
   - Announcements

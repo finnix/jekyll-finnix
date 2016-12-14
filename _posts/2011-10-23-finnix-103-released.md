@@ -4,7 +4,7 @@ title: Finnix 103 released
 date: 2011-10-23T00:00:24+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=320
+guid: http://blog.finnix.org/2011/10/23/finnix-103-released/
 permalink: /2011/10/23/finnix-103-released/
 categories:
   - Announcements

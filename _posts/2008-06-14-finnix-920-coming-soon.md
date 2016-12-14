@@ -4,7 +4,7 @@ title: Finnix 92.0 coming soon
 date: 2008-06-14T17:01:29+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/?p=69
+guid: http://blog.finnix.org/2008/06/14/finnix-920-coming-soon/
 permalink: /2008/06/14/finnix-920-coming-soon/
 categories:
   - Development

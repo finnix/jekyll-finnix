@@ -4,7 +4,7 @@ title: Yes, those are ads.
 date: 2006-01-20T19:00:26+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/20/yes-those-are-ads/
+guid: http://blog.finnix.org/2006/01/20/yes-those-are-ads/
 permalink: /2006/01/20/yes-those-are-ads/
 categories:
   - Finnix

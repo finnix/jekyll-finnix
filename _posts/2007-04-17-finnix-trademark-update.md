@@ -4,7 +4,7 @@ title: Finnix Trademark Update
 date: 2007-04-17T10:38:10+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2007/04/17/finnix-trademark-update/
+guid: http://blog.finnix.org/2007/04/17/finnix-trademark-update/
 permalink: /2007/04/17/finnix-trademark-update/
 categories:
   - Finnix

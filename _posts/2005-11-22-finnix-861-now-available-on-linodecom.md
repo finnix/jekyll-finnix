@@ -4,7 +4,7 @@ title: Finnix 86.1 now available on Linode.com
 date: 2005-11-22T23:34:58+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2005/11/22/finnix-861-now-available-on-linodecom/
+guid: http://blog.finnix.org/2005/11/22/finnix-861-now-available-on-linodecom/
 permalink: /2005/11/22/finnix-861-now-available-on-linodecom/
 categories:
   - Announcements

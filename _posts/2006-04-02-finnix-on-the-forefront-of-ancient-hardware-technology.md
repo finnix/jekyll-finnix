@@ -4,7 +4,7 @@ title: 'Finnix: On the Forefront of Ancient Hardware Technology'
 date: 2006-04-02T18:59:38+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/04/02/finnix-on-the-forefront-of-ancient-hardware-technology/
+guid: http://blog.finnix.org/2006/04/02/finnix-on-the-forefront-of-ancient-hardware-technology/
 permalink: /2006/04/02/finnix-on-the-forefront-of-ancient-hardware-technology/
 categories:
   - Finnix

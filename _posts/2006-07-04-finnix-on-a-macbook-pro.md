@@ -4,7 +4,7 @@ title: Finnix on a MacBook Pro
 date: 2006-07-04T23:16:10+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/07/04/finnix-on-a-macbook-pro/
+guid: http://blog.finnix.org/2006/07/04/finnix-on-a-macbook-pro/
 permalink: /2006/07/04/finnix-on-a-macbook-pro/
 categories:
   - Finnix

@@ -4,7 +4,7 @@ title: Finnix and Bootcharts
 date: 2006-07-16T14:50:55+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/07/16/finnix-and-bootcharts/
+guid: http://blog.finnix.org/2006/07/16/finnix-and-bootcharts/
 permalink: /2006/07/16/finnix-and-bootcharts/
 categories:
   - Development

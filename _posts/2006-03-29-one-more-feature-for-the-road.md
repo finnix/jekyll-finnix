@@ -4,7 +4,7 @@ title: One More Feature for the Road
 date: 2006-03-29T22:12:47+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/03/29/one-more-feature-for-the-road/
+guid: http://blog.finnix.org/2006/03/29/one-more-feature-for-the-road/
 permalink: /2006/03/29/one-more-feature-for-the-road/
 categories:
   - Development

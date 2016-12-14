@@ -4,7 +4,7 @@ title: Memory Errors
 date: 2005-11-26T14:11:23+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/08/20/memory-errors/
+guid: http://blog.finnix.org/2005/11/26/memory-errors/
 permalink: /2005/11/26/memory-errors/
 categories:
   - Finnix

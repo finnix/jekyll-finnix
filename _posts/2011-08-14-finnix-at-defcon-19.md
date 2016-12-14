@@ -4,7 +4,7 @@ title: Finnix at DEFCON 19
 date: 2011-08-14T00:44:37+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=287
+guid: http://blog.finnix.org/2011/08/14/finnix-at-defcon-19/
 permalink: /2011/08/14/finnix-at-defcon-19/
 categories:
   - Finnix

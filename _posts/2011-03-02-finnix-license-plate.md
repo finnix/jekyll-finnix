@@ -4,7 +4,7 @@ title: Finnix license plate
 date: 2011-03-02T15:11:21+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=226
+guid: http://blog.finnix.org/2011/03/02/finnix-license-plate/
 permalink: /2011/03/02/finnix-license-plate/
 categories:
   - Finnix

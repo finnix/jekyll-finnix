@@ -4,7 +4,7 @@ title: Finnix 107 released
 date: 2012-12-25T00:11:45+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=436
+guid: http://blog.finnix.org/2012/12/25/finnix-107-released/
 permalink: /2012/12/25/finnix-107-released/
 openid_comments:
   - 'a:1:{i:0;i:402721;}'

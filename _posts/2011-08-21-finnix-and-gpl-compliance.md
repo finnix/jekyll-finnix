@@ -4,7 +4,7 @@ title: Finnix and GPL compliance
 date: 2011-08-21T23:16:52+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=298
+guid: http://blog.finnix.org/2011/08/21/finnix-and-gpl-compliance/
 permalink: /2011/08/21/finnix-and-gpl-compliance/
 categories:
   - Finnix

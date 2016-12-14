@@ -4,7 +4,7 @@ title: Want a free Finnix CD?
 date: 2006-03-11T18:27:44+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/03/11/want-a-free-finnix-cd/
+guid: http://blog.finnix.org/2006/03/11/want-a-free-finnix-cd/
 permalink: /2006/03/11/want-a-free-finnix-cd/
 categories:
   - Finnix

@@ -4,7 +4,7 @@ title: Finnix ISO oddities
 date: 2010-11-07T00:35:13+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=142
+guid: http://blog.finnix.org/2010/11/07/finnix-iso-oddities/
 permalink: /2010/11/07/finnix-iso-oddities/
 categories:
   - Finnix

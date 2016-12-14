@@ -4,7 +4,7 @@ title: Finnix 89.2 Released
 date: 2007-07-27T10:04:41+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2007/07/27/finnix-892-released/
+guid: http://blog.finnix.org/2007/07/27/finnix-892-released/
 permalink: /2007/07/27/finnix-892-released/
 categories:
   - Announcements

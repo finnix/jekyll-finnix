@@ -4,7 +4,7 @@ title: Finnix 100 released
 date: 2010-10-28T00:20:49+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=125
+guid: http://blog.finnix.org/2010/10/28/finnix-100-released/
 permalink: /2010/10/28/finnix-100-released/
 categories:
   - Announcements

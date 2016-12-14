@@ -4,7 +4,7 @@ title: Works great, less filling
 date: 2006-01-28T23:27:29+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/28/works-great-less-filling/
+guid: http://blog.finnix.org/2006/01/28/works-great-less-filling/
 permalink: /2006/01/28/works-great-less-filling/
 categories:
   - Development

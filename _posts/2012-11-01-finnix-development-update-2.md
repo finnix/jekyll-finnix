@@ -4,7 +4,7 @@ title: Finnix development update
 date: 2012-11-01T23:33:15+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=427
+guid: http://blog.finnix.org/2012/11/01/finnix-development-update-2/
 permalink: /2012/11/01/finnix-development-update-2/
 categories:
   - Development

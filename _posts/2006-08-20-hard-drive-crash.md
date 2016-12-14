@@ -4,7 +4,7 @@ title: Hard Drive Crash
 date: 2006-08-20T18:38:03+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/08/20/hard-drive-crash/
+guid: http://blog.finnix.org/2006/08/20/hard-drive-crash/
 permalink: /2006/08/20/hard-drive-crash/
 categories:
   - Finnix

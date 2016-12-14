@@ -4,7 +4,7 @@ title: Finnix 92.1 released
 date: 2008-12-03T20:15:07+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=80
+guid: http://blog.finnix.org/2008/12/03/finnix-921-released/
 permalink: /2008/12/03/finnix-921-released/
 categories:
   - Announcements

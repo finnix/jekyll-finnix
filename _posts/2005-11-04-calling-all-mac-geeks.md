@@ -4,7 +4,7 @@ title: Calling All Mac Geeks!
 date: 2005-11-04T10:53:05+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/08/20/calling-all-mac-geeks/
+guid: http://blog.finnix.org/2005/11/04/calling-all-mac-geeks/
 permalink: /2005/11/04/calling-all-mac-geeks/
 categories:
   - Development

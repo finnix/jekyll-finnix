@@ -4,7 +4,7 @@ title: Finnix 89.1 Released
 date: 2007-04-13T20:55:38+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2007/04/13/finnix-891-released/
+guid: http://blog.finnix.org/2007/04/13/finnix-891-released/
 permalink: /2007/04/13/finnix-891-released/
 openid_comments:
   - 'a:1:{i:0;s:6:"276372";}'

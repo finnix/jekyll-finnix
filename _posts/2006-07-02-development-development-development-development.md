@@ -4,7 +4,7 @@ title: Development, Development, Development, Development
 date: 2006-07-02T02:13:56+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/07/02/development-development-development-development/
+guid: http://blog.finnix.org/2006/07/02/development-development-development-development/
 permalink: /2006/07/02/development-development-development-development/
 categories:
   - Development

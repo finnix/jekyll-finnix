@@ -4,7 +4,7 @@ title: 'Finnix -- perfect for VPS providers'
 date: 2011-01-07T00:12:29+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=205
+guid: http://blog.finnix.org/2011/01/07/finnix-perfect-for-vps-providers/
 permalink: /2011/01/07/finnix-perfect-for-vps-providers/
 categories:
   - Finnix

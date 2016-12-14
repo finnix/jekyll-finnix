@@ -4,7 +4,7 @@ title: LVM is coming to town
 date: 2006-01-20T00:09:13+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/01/20/lvm-is-coming-to-town/
+guid: http://blog.finnix.org/2006/01/20/lvm-is-coming-to-town/
 permalink: /2006/01/20/lvm-is-coming-to-town/
 categories:
   - Development

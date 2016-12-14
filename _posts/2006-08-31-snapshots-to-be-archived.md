@@ -4,7 +4,7 @@ title: Snapshots to be Archived
 date: 2006-08-31T22:25:11+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/2006/08/31/snapshots-to-be-archived/
+guid: http://blog.finnix.org/2006/08/31/snapshots-to-be-archived/
 permalink: /2006/08/31/snapshots-to-be-archived/
 categories:
   - Development

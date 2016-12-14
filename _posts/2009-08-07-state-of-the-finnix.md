@@ -4,7 +4,7 @@ title: State of the Finnix
 date: 2009-08-07T13:30:12+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=91
+guid: http://blog.finnix.org/2009/08/07/state-of-the-finnix/
 permalink: /2009/08/07/state-of-the-finnix/
 categories:
   - Development

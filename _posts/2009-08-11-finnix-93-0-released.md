@@ -4,7 +4,7 @@ title: Finnix 93.0 released
 date: 2009-08-11T00:01:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=94
+guid: http://blog.finnix.org/2009/08/11/finnix-93-0-released/
 permalink: /2009/08/11/finnix-93-0-released/
 categories:
   - Announcements

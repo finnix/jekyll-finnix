@@ -4,7 +4,7 @@ title: Finnix 108 to be released May 9
 date: 2013-05-02T14:12:16+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=452
+guid: http://blog.finnix.org/2013/05/02/finnix-108-to-be-released-may-9/
 permalink: /2013/05/02/finnix-108-to-be-released-may-9/
 categories:
   - Announcements

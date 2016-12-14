@@ -4,7 +4,7 @@ title: Finnix 111 released
 date: 2015-06-04T08:45:17+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=480
+guid: http://blog.finnix.org/2015/06/04/finnix-111-released/
 permalink: /2015/06/04/finnix-111-released/
 categories:
   - Announcements

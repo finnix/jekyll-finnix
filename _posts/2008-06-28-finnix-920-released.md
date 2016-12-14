@@ -4,7 +4,7 @@ title: Finnix 92.0 Released
 date: 2008-06-28T21:59:12+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/?p=77
+guid: http://blog.finnix.org/2008/06/28/finnix-920-released/
 permalink: /2008/06/28/finnix-920-released/
 categories:
   - Announcements

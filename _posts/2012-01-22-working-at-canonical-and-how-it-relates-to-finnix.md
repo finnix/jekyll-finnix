@@ -4,7 +4,7 @@ title: Working at Canonical, and how it relates to Finnix
 date: 2012-01-22T21:34:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=333
+guid: http://blog.finnix.org/2012/01/22/working-at-canonical-and-how-it-relates-to-finnix/
 permalink: /2012/01/22/working-at-canonical-and-how-it-relates-to-finnix/
 categories:
   - Finnix

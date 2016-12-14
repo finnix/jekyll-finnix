@@ -4,7 +4,7 @@ title: Finnix 109 released
 date: 2013-11-14T18:03:17+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=466
+guid: http://blog.finnix.org/2013/11/14/finnix-109-released/
 permalink: /2013/11/14/finnix-109-released/
 categories:
   - Announcements

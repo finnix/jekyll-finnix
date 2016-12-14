@@ -4,7 +4,7 @@ title: 'Finnix 101: What to look forward to'
 date: 2010-12-20T12:21:27+00:00
 author: Ryan Finnie
 layout: post
-guid: http://blog.finnix.org/?p=168
+guid: http://blog.finnix.org/2010/12/20/finnix-101-what-to-look-forward-to/
 permalink: /2010/12/20/finnix-101-what-to-look-forward-to/
 categories:
   - Development

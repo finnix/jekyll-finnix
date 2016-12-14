@@ -4,7 +4,7 @@ title: "Finnix and Debian's OpenSSL Vulnerability"
 date: 2008-06-02T01:05:13+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnix.org/blog/?p=68
+guid: http://blog.finnix.org/2008/06/02/finnix-and-debian-openssl-vuln/
 permalink: /2008/06/02/finnix-and-debian-openssl-vuln/
 categories:
   - Finnix
