@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2013-05-09 07:55:18
-guid: http://blog.finnix.org/2013/05/09/finnix-108-released/
-id: 456
+date: 2013-05-09 14:55:18
 layout: post
-permalink: /2013/05/09/finnix-108-released/
 title: Finnix 108 released
+wp_id: 456
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today I am pleased to announce the release of Finnix 108, which includes Linux kernel 3.8, updated Debian upstream software, bug fixes and minor feature enhancements.
 

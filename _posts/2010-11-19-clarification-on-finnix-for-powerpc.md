@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
-- Finnix
 - Miscellany
-date: 2010-11-19 03:07:58
-guid: http://blog.finnix.org/2010/11/19/clarification-on-finnix-for-powerpc/
-id: 158
+date: 2010-11-19 11:07:58
 layout: post
-permalink: /2010/11/19/clarification-on-finnix-for-powerpc/
 title: Clarification on Finnix for PowerPC
+wp_id: 158
 ---
 [<img src="/blog-media/2010/11/finnix-apple-spoof.png" alt="" title="Finnix Apple Spoof" width="475" height="150" class="alignnone size-full wp-image-159" srcset="/blog-media/2010/11/finnix-apple-spoof.png 475w, /blog-media/2010/11/finnix-apple-spoof-300x94.png 300w" sizes="(max-width: 475px) 100vw, 475px" />](/blog-media/2010/11/finnix-apple-spoof.png)  
 <span style="font-size: 75%"><em>Please don't sue me, Apple.</em></span>

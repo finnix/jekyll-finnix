@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2011-06-30 14:27:47
-guid: http://blog.finnix.org/2011/06/30/new-compression-for-finnix-102/
-id: 246
+date: 2011-06-30 21:27:47
 layout: post
-permalink: /2011/06/30/new-compression-for-finnix-102/
 title: New compression for Finnix 102
+wp_id: 246
 ---
 In my previous post, I mentioned switching to xz compression without much explanation.
 

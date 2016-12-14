@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2010-12-25 11:41:32
-guid: http://blog.finnix.org/2010/12/25/finnix-remastering-updates/
-id: 191
+date: 2010-12-25 19:41:32
 layout: post
-permalink: /2010/12/25/finnix-remastering-updates/
 title: Finnix remastering updates
+wp_id: 191
 ---
 Finnix is used a lot for remastering for administrators' specific projects, so if you're a remasterer, you're going to both love and hate Finnix 101 -- love because Finnix 101 ultimately makes it a lot easier to remaster in the long run, and hate because a lot of things have changed in incompatible ways, hopefully for the better. This post should help give you a rundown on what's changed.
 

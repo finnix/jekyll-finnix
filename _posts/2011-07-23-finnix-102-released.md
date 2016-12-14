@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2011-07-23 00:00:16
-guid: http://blog.finnix.org/2011/07/23/finnix-102-released/
-id: 260
+date: 2011-07-23 07:00:16
 layout: post
-permalink: /2011/07/23/finnix-102-released/
 title: Finnix 102 released
+wp_id: 260
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the release of Finnix 102, the eighteenth release of Finnix since its beginnings over ten years ago. Finnix 102 includes Linux kernel 3.0, a smaller distribution size, new Xen pvops and 486 support, and minor bug fixes.
 

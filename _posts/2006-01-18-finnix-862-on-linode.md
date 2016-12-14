@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
-- Finnix
 - Miscellany
-date: 2006-01-18 10:06:51
-guid: http://blog.finnix.org/2006/01/18/finnix-862-on-linode/
-id: 10
+date: 2006-01-18 18:06:51
 layout: post
-permalink: /2006/01/18/finnix-862-on-linode/
 title: Finnix 86.2 on Linode
+wp_id: 10
 ---
 The 86.2 update has been successfully tested on [Linode](http://www.linode.com/), and I've been told it should be deployed to all hosts this evening. With 86.2, UML/Xen detection is now automatic, and you no longer need the "uml" or "xen" boot parameter (though it doesn't hurt anything if you leave it in).
 

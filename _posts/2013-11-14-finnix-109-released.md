@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2013-11-14 18:03:17
-guid: http://blog.finnix.org/2013/11/14/finnix-109-released/
-id: 466
+date: 2013-11-15 02:03:17
 layout: post
-permalink: /2013/11/14/finnix-109-released/
 title: Finnix 109 released
+wp_id: 466
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Finnix 109 includes a number of new features and bug fixes. Linux kernel 3.10 is included, USB 3.0 boot support has been fixed, PowerPC G5 automatic fan / thermal control has been implemented, and "nomodeset" is now passed by default, increasing boot compatibility on many Radeon graphics cards.
 

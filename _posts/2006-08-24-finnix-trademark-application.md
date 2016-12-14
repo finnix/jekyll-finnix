@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
-- Finnix
 - Miscellany
-date: 2006-08-24 01:04:25
-guid: http://blog.finnix.org/2006/08/24/finnix-trademark-application/
-id: 54
+date: 2006-08-24 09:04:25
 layout: post
-permalink: /2006/08/24/finnix-trademark-application/
 title: Finnix Trademark Application
+wp_id: 54
 ---
 I recently [applied for registration of the Finnix trademark](http://tarr.uspto.gov/servlet/tarr?regser=serial&entry=78954348) with the [USPTO](http://www.uspto.gov/). Registration is a long process, and should be completed in 13 to 18 months. Of course this doesn't mean that I am not allowed to use the name "Finnix" yet; rather, trademark registration is designed to give you more power in asserting ownership of a mark for specific purposes (in this case, use of the name "Finnix" relating to "computer software", dating back to 1999).
 

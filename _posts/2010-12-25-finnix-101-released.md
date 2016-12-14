@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2010-12-25 00:00:08
-guid: http://blog.finnix.org/2010/12/25/finnix-101-released/
-id: 182
+date: 2010-12-25 08:00:08
 layout: post
-permalink: /2010/12/25/finnix-101-released/
 title: Finnix 101 released
+wp_id: 182
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the eggnog-induced release of Finnix 101, the seventeenth release of Finnix since its beginnings over ten years ago. Finnix 101 includes major behind-the-scenes architectural changes, the re-introduction of PowerPC support, new features, and minor bug fixes.
 

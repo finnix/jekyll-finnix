@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2006-10-09 01:35:02
-guid: http://blog.finnix.org/2006/10/09/macs-and-amd64-support/
-id: 57
+date: 2006-10-09 09:35:02
 layout: post
-permalink: /2006/10/09/macs-and-amd64-support/
 title: Macs, and AMD64 Support
+wp_id: 57
 ---
 I got my hands on a couple Mac Pro quad-core (in reality, 2 dual-core Xeons) machines at work this week, and [got Finnix to work on them](http://www.finnix.org/submits/x86/1160195401-3492276741-1559875628.gz), kinda. rEFIt found Finnix just fine, but the kernel would freeze when trying to mount the CDROM disc. "nodma" didn't work either. My next attempt was to boot from a USB CDROM drive. Once again, rEFIt found the USB CDROM drive and Finnix disc, but isolinux would fail halfway though loading the kernel image from CD. I eventually booted by putting a copy of Finnix in the onboard CDROM drive, and another in the USB CDROM drive, then booting the onboard CDROM and typing "finnix root=/dev/sr0". The problem seems to be kernel-related; hopefully 2.6.18 helps with this.
 

@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2005-10-13 12:07:07
-guid: http://blog.finnix.org/2005/10/13/thank-god-for-vmware/
-id: 51
+date: 2005-10-13 20:07:07
 layout: post
-permalink: /2005/10/13/thank-god-for-vmware/
 title: Thank god for vmware
+wp_id: 51
 ---
 In the last week, I'm guessing that I've built and started approximately 500 ISOs, if not more.
 

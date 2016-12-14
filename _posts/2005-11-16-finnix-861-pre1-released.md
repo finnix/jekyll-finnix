@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2005-11-16 13:02:31
-guid: http://blog.finnix.org/2005/11/16/finnix-861-pre1-released/
-id: 36
+date: 2005-11-16 21:02:31
 layout: post
-permalink: /2005/11/16/finnix-861-pre1-released/
 title: Finnix 86.1-pre1 Released
+wp_id: 36
 ---
 Finnix version 86.1-pre1 has been released for x86 and PowerPC platforms today. Yes, you heard right. There is now a Finnix PowerPC ISO available for download. Documentation will be written by the time 86.1 final is released, but the short of it is: 
 

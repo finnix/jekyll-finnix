@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2013-05-02 14:12:16
-guid: http://blog.finnix.org/2013/05/02/finnix-108-to-be-released-may-9/
-id: 452
+date: 2013-05-02 21:12:16
 layout: post
-permalink: /2013/05/02/finnix-108-to-be-released-may-9/
 title: Finnix 108 to be released May 9
+wp_id: 452
 ---
 Next Thursday, May 9, Finnix 108 will be released. Finnix 108 will include Linux kernel 3.8, bug fixes and minor feature enhancements. I am experimenting with a time-based development model, and while the frequency details have not yet been finalized, this model does allow me to announce releases ahead of time.
 

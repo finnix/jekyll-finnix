@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2006-01-30 02:31:34
-guid: http://blog.finnix.org/2006/01/30/the-future-is-now/
-id: 17
+date: 2006-01-30 10:31:34
 layout: post
-permalink: /2006/01/30/the-future-is-now/
 title: The future is now!
+wp_id: 17
 ---
 So, I just found out about this new peripheral called a "mouse". Appearantly you no longer have to be confined to using a light pen; instead, you move a rodent-shaped device over your desk, and a triangle-shaped cursor mimics your moves on the compuscreen. Quite a radical idea...
 

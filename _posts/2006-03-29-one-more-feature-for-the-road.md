@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2006-03-29 22:12:47
-guid: http://blog.finnix.org/2006/03/29/one-more-feature-for-the-road/
-id: 26
+date: 2006-03-30 06:12:47
 layout: post
-permalink: /2006/03/29/one-more-feature-for-the-road/
 title: One More Feature for the Road
+wp_id: 26
 ---
 Kernel 2.6.16 has made the cut, and final CD images have been mastered. One final round of testing, and Finnix 87.0 should be released Friday!
 

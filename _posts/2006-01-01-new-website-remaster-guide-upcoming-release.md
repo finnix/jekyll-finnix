@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2006-01-01 23:18:35
-guid: http://blog.finnix.org/2006/01/01/new-website-remaster-guide-upcoming-release/
-id: 33
+date: 2006-01-02 07:18:35
 layout: post
-permalink: /2006/01/01/new-website-remaster-guide-upcoming-release/
 title: New website, remaster guide, upcoming release
+wp_id: 33
 ---
 To celebrate the new year, a new website has been launched. This site uses MediaWiki, and includes all content from the previous site. Since it is a wiki, if you have any info to add, just go ahead and edit! 
 

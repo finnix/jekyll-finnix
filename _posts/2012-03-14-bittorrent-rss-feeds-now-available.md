@@ -1,13 +1,8 @@
 ---
-author: Ryan Finnie
-categories:
-- Finnix
-date: 2012-03-14 00:48:22
-guid: http://blog.finnix.org/2012/03/14/bittorrent-rss-feeds-now-available/
-id: 377
+date: 2012-03-14 07:48:22
 layout: post
-permalink: /2012/03/14/bittorrent-rss-feeds-now-available/
 title: BitTorrent RSS feeds now available
+wp_id: 377
 ---
 RSS feeds of Finnix ISO BitTorrent releases are now available. These feeds allow you to (with supported clients) automatically download and seed the latest versions of Finnix. There are several feeds available, but the recommended feed is here:
 

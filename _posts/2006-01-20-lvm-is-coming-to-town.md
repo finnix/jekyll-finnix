@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2006-01-20 00:09:13
-guid: http://blog.finnix.org/2006/01/20/lvm-is-coming-to-town/
-id: 12
+date: 2006-01-20 08:09:13
 layout: post
-permalink: /2006/01/20/lvm-is-coming-to-town/
 title: LVM is coming to town
+wp_id: 12
 ---
 _It sees you when you're fscking, it knows /dev/hda..._ OK, bad joke.
 

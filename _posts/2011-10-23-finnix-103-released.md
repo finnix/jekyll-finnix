@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2011-10-23 00:00:24
-guid: http://blog.finnix.org/2011/10/23/finnix-103-released/
-id: 320
+date: 2011-10-23 07:00:24
 layout: post
-permalink: /2011/10/23/finnix-103-released/
 title: Finnix 103 released
+wp_id: 320
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the release of Finnix 103, the nineteenth release of Finnix, and marks three months since the release of Finnix 102, and six years since the relaunch of Finnix 86.0 in 2005. Finnix 103 includes a new forensic mode, RNG entropy gathering, a minor kernel update, a large number of bug fixes, new packages and new minor features.
 

@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
-- Finnix
 - Miscellany
-date: 2006-01-20 19:00:26
-guid: http://blog.finnix.org/2006/01/20/yes-those-are-ads/
-id: 13
+date: 2006-01-21 03:00:26
 layout: post
-permalink: /2006/01/20/yes-those-are-ads/
 title: Yes, those are ads.
+wp_id: 13
 ---
 I added a small Google AdWords block to the top-right of [the wiki](http://www.finnix.org/). I did this because 1) the extra money would be nice, and 2) I had an AdWords account sitting idle. It seems to blend in well and should be relatively unintrusive, but if you have any suggestions, let me know. _Today's Earnings: $0.32_ Woo! I'm almost up to a free stamp!
 

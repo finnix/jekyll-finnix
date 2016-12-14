@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2012-10-29 00:00:25
-guid: http://blog.finnix.org/2012/10/29/finnix-106-released/
-id: 416
+date: 2012-10-29 07:00:25
 layout: post
-permalink: /2012/10/29/finnix-106-released/
 title: Finnix 106 released
+wp_id: 416
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today I am pleased to announce the release of Finnix 106, which contains an important kernel update as well as minor fixes and improvements.
 

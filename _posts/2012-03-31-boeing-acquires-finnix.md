@@ -1,13 +1,8 @@
 ---
-author: Ryan Finnie
-categories:
-- Finnix
-date: 2012-03-31 17:00:18
-guid: http://blog.finnix.org/2012/03/31/boeing-acquires-finnix/
-id: 383
+date: 2012-04-01 00:00:18
 layout: post
-permalink: /2012/03/31/boeing-acquires-finnix/
 title: Boeing acquires Finnix, VAD
+wp_id: 383
 ---
 ([April Fools!](http://blog.finnix.org/2012/04/01/april-fools-2/))
 

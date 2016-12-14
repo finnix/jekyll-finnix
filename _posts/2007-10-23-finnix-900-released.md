@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2007-10-23 09:28:58
-guid: http://blog.finnix.org/2007/10/23/finnix-900-released/
-id: 65
+date: 2007-10-23 17:28:58
 layout: post
-permalink: /2007/10/23/finnix-900-released/
 title: Finnix 90.0 Released
+wp_id: 65
 ---
 On October 23, 2005, Finnix 86.0 was released, marking the revival of Finnix. Now, two years and 9 releases later, Finnix 90.0 has been released for the x86/AMD64, PowerPC, and UML/Xen platforms. Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing.
 

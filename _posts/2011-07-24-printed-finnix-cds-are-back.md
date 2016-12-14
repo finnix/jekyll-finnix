@@ -1,13 +1,8 @@
 ---
-author: Ryan Finnie
-categories:
-- Finnix
-date: 2011-07-24 23:06:33
-guid: http://blog.finnix.org/2011/07/24/printed-finnix-cds-are-back/
-id: 268
+date: 2011-07-25 06:06:33
 layout: post
-permalink: /2011/07/24/printed-finnix-cds-are-back/
 title: Printed Finnix CDs are back!
+wp_id: 268
 ---
 <div style="float: right;">
   <a href="http://www.finnix.org/File:Finnix_102_disc_preview.png"><img width="180" height="180" src="http://www.finnix.org/w/images/thumb/4/4f/Finnix_102_disc_preview.png/180px-Finnix_102_disc_preview.png" alt="Finnix 102 disc preview.png" style="border: 0;" /></a>

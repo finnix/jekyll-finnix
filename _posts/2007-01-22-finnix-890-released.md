@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2007-01-22 00:00:37
-guid: http://blog.finnix.org/2007/01/22/finnix-890-released/
-id: 59
+date: 2007-01-22 08:00:37
 layout: post
-permalink: /2007/01/22/finnix-890-released/
 title: Finnix 89.0 Released
+wp_id: 59
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the release of version 89.0 for the x86 (and now AMD64), PowerPC, and UML/Xen platforms.
 

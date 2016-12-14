@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2006-02-03 18:31:25
-guid: http://blog.finnix.org/2006/02/03/finnix-development-snapshots-now-available/
-id: 18
+date: 2006-02-04 02:31:25
 layout: post
-permalink: /2006/02/03/finnix-development-snapshots-now-available/
 title: Finnix development snapshots now available
+wp_id: 18
 ---
 [snapshots.finnix.org](http://snapshots.finnix.org/) is now live, where you can download the latest development build of both Finnix and Finnix-PPC. Development builds are not guaranteed to be stable, but I try to make sure that they are at least bootable.
 

@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2006-03-22 23:40:44
-guid: http://blog.finnix.org/2006/03/22/improved-dma-support-coming-soon/
-id: 23
+date: 2006-03-23 07:40:44
 layout: post
-permalink: /2006/03/22/improved-dma-support-coming-soon/
 title: Improved DMA Support Coming Soon
+wp_id: 23
 ---
 One of the problems with today's Finnix is that when the initrd scans for IDE drives, it is using the IDE system compiled into the kernel, which is "generic". This is the most stable solution (I have yet to find an IDE CDROM drive that is not recognized), but unfortunately, there is almost no DMA support in the generic driver, so even when the system is booted with "finnix dma", there is a good chance DMA support will not be enabled for either the CDROM or any disks. On top of that, even if you were to load the appropriate specialized IDE module for your chipset, the channels are already registered to the generic driver, and there appears to be no way to reverse that.
 

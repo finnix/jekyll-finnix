@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2006-08-27 00:10:19
-guid: http://blog.finnix.org/2006/08/27/development-update-oshkosh-udev-netbooting-toramtestcd/
-id: 55
+date: 2006-08-27 08:10:19
 layout: post
-permalink: /2006/08/27/development-update-oshkosh-udev-netbooting-toramtestcd/
 title: 'Development Update: Oshkosh, udev, Netbooting, toram/testcd'
+wp_id: 55
 ---
 One day, Finnix will be "finished", and I will be left with releasing updated ISOs every few months with a dist-upgrade and maybe a new kernel. Thankfully, that day hasn't come yet.
 

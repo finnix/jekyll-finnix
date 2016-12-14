@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Announcements
-- Finnix
-date: 2005-11-22 23:34:58
-guid: http://blog.finnix.org/2005/11/22/finnix-861-now-available-on-linodecom/
-id: 34
+date: 2005-11-23 07:34:58
 layout: post
-permalink: /2005/11/22/finnix-861-now-available-on-linodecom/
 title: Finnix 86.1 now available on Linode.com
+wp_id: 34
 ---
 I am pleased to announce the availability of Finnix version 86.1 as a recovery distribution for Linode customers. Linode.com provides a highly customizable Virtual Machine Management Platform using Linux, that lets you configure your own server complete with root access, without the burden of a dedicated server's upkeep, maintenance, and co-location fees. 
 

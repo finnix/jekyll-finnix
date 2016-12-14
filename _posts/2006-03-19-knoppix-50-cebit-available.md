@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
-- Finnix
 - Miscellany
-date: 2006-03-19 20:29:00
-guid: http://blog.finnix.org/2006/03/19/knoppix-50-cebit-available/
-id: 21
+date: 2006-03-20 04:29:00
 layout: post
-permalink: /2006/03/19/knoppix-50-cebit-available/
 title: Knoppix 5.0 CeBIT Available
+wp_id: 21
 ---
 Yes, I'm announcing "the competition". Knoppix 5.0 was released at [CeBit](http://cebit.de/) this week. While it is not available on the main site yet, there is [a 3.5GB torrent](http://linuxtracker.org/torrents-details.php?id=1620) available of the DVD given out at the conference. It is the German version though, so for English audiences, you must type "knoppix lang=us" at the boot prompt. Beware though, isolinux is configured for a German keyboard layout, so to type a "=" sign, you must hit Shift-0 (zero). After that, everything should work as expected.
 

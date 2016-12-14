@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
-- Finnix
 - Miscellany
-date: 2006-08-20 19:23:01
-guid: http://blog.finnix.org/2006/08/20/mirrors-requested/
-id: 53
+date: 2006-08-21 03:23:01
 layout: post
-permalink: /2006/08/20/mirrors-requested/
 title: Mirrors Requested
+wp_id: 53
 ---
 Due to SourceForge problems, for 88.0 I secured primary mirroring with [OSU Open Source Lab](http://osuosl.org/) (thanks again!), and will not be using SourceForge for future releases. However, I am looking for secondary mirror sites. Here are the requirements:
 

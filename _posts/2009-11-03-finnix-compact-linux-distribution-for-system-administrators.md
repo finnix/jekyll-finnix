@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
-- Finnix
 - Miscellany
-date: 2009-11-03 15:16:41
-guid: http://blog.finnix.org/2009/11/03/finnix-compact-linux-distribution-for-system-administrators/
-id: 99
+date: 2009-11-03 23:16:41
 layout: post
-permalink: /2009/11/03/finnix-compact-linux-distribution-for-system-administrators/
 title: 'Finnix: Compact Linux distribution for system administrators'
+wp_id: 99
 ---
 In July 2008, [Cory Buford](http://www.gwmo.com/) wrote a nice review of Finnix for [linux.com](http://www.linux.com/), shortly after the release of Finnix 92.0. Unfortunately, the review did not survive linux.com's transition to the Linux Foundation later that year, but I was able to save a copy, and with permission from the author, it has been reproduced here. Enjoy!
 

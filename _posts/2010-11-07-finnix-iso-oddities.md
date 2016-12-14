@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
-- Finnix
 - Miscellany
-date: 2010-11-07 00:35:13
-guid: http://blog.finnix.org/2010/11/07/finnix-iso-oddities/
-id: 142
+date: 2010-11-07 07:35:13
 layout: post
-permalink: /2010/11/07/finnix-iso-oddities/
 title: Finnix ISO oddities
+wp_id: 142
 ---
 After the release of Finnix 100, I did a little housecleaning of the main dev box, and found some old/odd Finnix builds. I decided to gather the various ISOs in one place to preserve for the times. I may release these somehow, but for now I just wanted to make sure they were not lost, and to give you a glimpse of some unreleased software. This list also includes some builds that I know existed and would like to find, but are currently missing.
 

@@ -1,14 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Development
-- Finnix
-date: 2006-07-16 14:50:55
-guid: http://blog.finnix.org/2006/07/16/finnix-and-bootcharts/
-id: 43
+date: 2006-07-16 22:50:55
 layout: post
-permalink: /2006/07/16/finnix-and-bootcharts/
 title: Finnix and Bootcharts
+wp_id: 43
 ---
 Finnix 88.0 will have [Bootchart](http://www.bootchart.org/download.html) support; "finnix bootchart" will start bootchartd, and stop it at the appropriate time. (Bootchart will look for key processes to determine when it's "done", such as getty or xinit. Finnix does not utilize either, so finnix-scripts must stop it manually at the end. Below is a (largeish) image, and some notes.
   
