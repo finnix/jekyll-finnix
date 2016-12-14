@@ -1,14 +1,14 @@
 ---
-id: 231
-title: Finnix in social networks
-date: 2011-06-27T17:46:17+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2011/06/27/finnix-in-social-networks/
-permalink: /2011/06/27/finnix-in-social-networks/
 categories:
-  - Finnix
-  - Miscellany
+- Finnix
+- Miscellany
+date: 2011-06-27 17:46:17
+guid: http://blog.finnix.org/2011/06/27/finnix-in-social-networks/
+id: 231
+layout: post
+permalink: /2011/06/27/finnix-in-social-networks/
+title: Finnix in social networks
 ---
 Finnix now has a page on Facebook, for all your Finnix-related facing and/or booking needs! Please visit [facebook.com/FinnixCD](http://www.facebook.com/FinnixCD) today.
 

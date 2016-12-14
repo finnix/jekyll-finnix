@@ -1,14 +1,14 @@
 ---
-id: 125
-title: Finnix 100 released
-date: 2010-10-28T00:20:49+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2010/10/28/finnix-100-released/
-permalink: /2010/10/28/finnix-100-released/
 categories:
-  - Announcements
-  - Finnix
+- Announcements
+- Finnix
+date: 2010-10-28 00:20:49
+guid: http://blog.finnix.org/2010/10/28/finnix-100-released/
+id: 125
+layout: post
+permalink: /2010/10/28/finnix-100-released/
+title: Finnix 100 released
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the release of Finnix 100, the sixteenth release of Finnix since its beginnings over ten years ago.
 

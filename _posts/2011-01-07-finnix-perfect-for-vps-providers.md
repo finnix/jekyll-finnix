@@ -1,13 +1,13 @@
 ---
-id: 205
-title: 'Finnix -- perfect for VPS providers'
-date: 2011-01-07T00:12:29+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2011/01/07/finnix-perfect-for-vps-providers/
-permalink: /2011/01/07/finnix-perfect-for-vps-providers/
 categories:
-  - Finnix
+- Finnix
+date: 2011-01-07 00:12:29
+guid: http://blog.finnix.org/2011/01/07/finnix-perfect-for-vps-providers/
+id: 205
+layout: post
+permalink: /2011/01/07/finnix-perfect-for-vps-providers/
+title: Finnix -- perfect for VPS providers
 ---
 <img src="/blog-media/2010/12/finnix-boot-vps.png" alt="" title="finnix-boot-vps" width="94" height="86" style="float: right; margin-left: 0.5em; margin-bottom: 0.5em;" />
 

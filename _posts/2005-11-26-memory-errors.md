@@ -1,14 +1,14 @@
 ---
-id: 46
-title: Memory Errors
-date: 2005-11-26T14:11:23+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2005/11/26/memory-errors/
-permalink: /2005/11/26/memory-errors/
 categories:
-  - Finnix
-  - Miscellany
+- Finnix
+- Miscellany
+date: 2005-11-26 14:11:23
+guid: http://blog.finnix.org/2005/11/26/memory-errors/
+id: 46
+layout: post
+permalink: /2005/11/26/memory-errors/
+title: Memory Errors
 ---
 Despite having a mac mini, I'm still doing Finnix development on the graphite G4. It's been very stable, up until last night, when I was compiling the latest and greatest kernel, I got the occasional failure like so:
 

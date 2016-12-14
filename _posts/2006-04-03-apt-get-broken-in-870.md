@@ -1,14 +1,14 @@
 ---
-id: 30
-title: apt-get Broken in 87.0
-date: 2006-04-03T03:17:15+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/04/03/apt-get-broken-in-870/
-permalink: /2006/04/03/apt-get-broken-in-870/
 categories:
-  - Announcements
-  - Finnix
+- Announcements
+- Finnix
+date: 2006-04-03 03:17:15
+guid: http://blog.finnix.org/2006/04/03/apt-get-broken-in-870/
+id: 30
+layout: post
+permalink: /2006/04/03/apt-get-broken-in-870/
+title: apt-get Broken in 87.0
 ---
 A rather nasty bug in unionfs for 2.6.16 has made installing via apt-get impossible. However, there is a workaround. You must move /var/lib/apt and /var/cache/apt to /tmp and reconfigure apt to use these new directories. A script has been released that makes this easier. Simply do:
 

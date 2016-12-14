@@ -1,14 +1,14 @@
 ---
-id: 91
-title: State of the Finnix
-date: 2009-08-07T13:30:12+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2009/08/07/state-of-the-finnix/
-permalink: /2009/08/07/state-of-the-finnix/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2009-08-07 13:30:12
+guid: http://blog.finnix.org/2009/08/07/state-of-the-finnix/
+id: 91
+layout: post
+permalink: /2009/08/07/state-of-the-finnix/
+title: State of the Finnix
 ---
 Reposting an email I sent recently:
 

@@ -1,14 +1,14 @@
 ---
-id: 254
-title: Host Virtual sponsors Finnix, uses Finnix
-date: 2011-07-26T09:59:26+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2011/07/26/host-virtual-sponsors-finnix-uses-finnix/
-permalink: /2011/07/26/host-virtual-sponsors-finnix-uses-finnix/
 categories:
-  - Finnix
-  - Miscellany
+- Finnix
+- Miscellany
+date: 2011-07-26 09:59:26
+guid: http://blog.finnix.org/2011/07/26/host-virtual-sponsors-finnix-uses-finnix/
+id: 254
+layout: post
+permalink: /2011/07/26/host-virtual-sponsors-finnix-uses-finnix/
+title: Host Virtual sponsors Finnix, uses Finnix
 ---
 [Host Virtual](http://vr.org/), a Virtual Private Server (VPS) provider with 10 datacenter locations around the world and native IPv6 support, is now sponsoring Finnix, providing colocation and bandwidth for primary Finnix services. Finnix's services have been hosted at Host Virtual's San Jose facility for over 5 years, and all Finnix sites have had native IPv6 since early 2010.
 

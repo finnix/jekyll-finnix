@@ -1,13 +1,13 @@
 ---
-id: 298
-title: Finnix and GPL compliance
-date: 2011-08-21T23:16:52+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2011/08/21/finnix-and-gpl-compliance/
-permalink: /2011/08/21/finnix-and-gpl-compliance/
 categories:
-  - Finnix
+- Finnix
+date: 2011-08-21 23:16:52
+guid: http://blog.finnix.org/2011/08/21/finnix-and-gpl-compliance/
+id: 298
+layout: post
+permalink: /2011/08/21/finnix-and-gpl-compliance/
+title: Finnix and GPL compliance
 ---
 Finnix is an open source product; it is comprised of many pieces of software under a variety of open source licenses, and the "glue" that holds everything in Finnix together is GPLv2, so the distribution itself is considered to be GPLv2 for convenience sake.
 

@@ -1,14 +1,14 @@
 ---
-id: 364
-title: Finnix 104 released
-date: 2012-02-14T00:00:08+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2012/02/14/finnix-104-released/
-permalink: /2012/02/14/finnix-104-released/
 categories:
-  - Announcements
-  - Finnix
+- Announcements
+- Finnix
+date: 2012-02-14 00:00:08
+guid: http://blog.finnix.org/2012/02/14/finnix-104-released/
+id: 364
+layout: post
+permalink: /2012/02/14/finnix-104-released/
+title: Finnix 104 released
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the release of Finnix 104, the twentieth release of Finnix. Since the first public release of Finnix 0.03 in March 2000, there have been twenty releases and 37 ISOs released to the public, totalling 4.5GB . (All releases have included x86 and PowerPC ISOs, with the exception of Finnix 0.03, 86.0, and 100.)
 

@@ -1,13 +1,13 @@
 ---
-id: 333
-title: Working at Canonical, and how it relates to Finnix
-date: 2012-01-22T21:34:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2012/01/22/working-at-canonical-and-how-it-relates-to-finnix/
-permalink: /2012/01/22/working-at-canonical-and-how-it-relates-to-finnix/
 categories:
-  - Finnix
+- Finnix
+date: 2012-01-22 21:34:00
+guid: http://blog.finnix.org/2012/01/22/working-at-canonical-and-how-it-relates-to-finnix/
+id: 333
+layout: post
+permalink: /2012/01/22/working-at-canonical-and-how-it-relates-to-finnix/
+title: Working at Canonical, and how it relates to Finnix
 ---
 <div style="width: 240px; float: right; margin-left: 1em; margin-bottom: 1em; text-align: center;">
   <a href="http://www.flickr.com/photos/fo0bar/6068206821/" title="ThinkPad X200s after one year by Ryan Finnie, on Flickr"><img src="http://farm7.staticflickr.com/6061/6068206821_79178bb9b8_m.jpg" width="240" height="180" alt="ThinkPad X200s after one year" /></a><br /><em>Well-worn Ubuntu stickers on <a href="http://www.finnie.org/2011/08/22/thinkpad-x200s-one-year-follow-up/">my ThinkPad X200s</a></em>

@@ -1,13 +1,13 @@
 ---
-id: 68
-title: "Finnix and Debian's OpenSSL Vulnerability"
-date: 2008-06-02T01:05:13+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2008/06/02/finnix-and-debian-openssl-vuln/
-permalink: /2008/06/02/finnix-and-debian-openssl-vuln/
 categories:
-  - Finnix
+- Finnix
+date: 2008-06-02 01:05:13
+guid: http://blog.finnix.org/2008/06/02/finnix-and-debian-openssl-vuln/
+id: 68
+layout: post
+permalink: /2008/06/02/finnix-and-debian-openssl-vuln/
+title: Finnix and Debian's OpenSSL Vulnerability
 ---
 All versions of Finnix from 89.0 to 91.1 (inclusive) contain the [Debian OpenSSL predictable RNG vulnerability](http://lists.debian.org/debian-security-announce/2008/msg00152.html). The fix will be included with the next scheduled (approximately quarterly) release of Finnix in the next few weeks. In the meantime, if you use any OpenSSL-related programs (openssl itself, ssh, openvpn, etc) on Finnix, be sure to do the following as soon as you boot Finnix:
 

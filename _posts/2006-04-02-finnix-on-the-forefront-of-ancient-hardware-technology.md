@@ -1,14 +1,14 @@
 ---
-id: 29
-title: 'Finnix: On the Forefront of Ancient Hardware Technology'
-date: 2006-04-02T18:59:38+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/04/02/finnix-on-the-forefront-of-ancient-hardware-technology/
-permalink: /2006/04/02/finnix-on-the-forefront-of-ancient-hardware-technology/
 categories:
-  - Finnix
-  - Miscellany
+- Finnix
+- Miscellany
+date: 2006-04-02 18:59:38
+guid: http://blog.finnix.org/2006/04/02/finnix-on-the-forefront-of-ancient-hardware-technology/
+id: 29
+layout: post
+permalink: /2006/04/02/finnix-on-the-forefront-of-ancient-hardware-technology/
+title: 'Finnix: On the Forefront of Ancient Hardware Technology'
 ---
 For Finnix 87.0, I decided to compile the x86 kernel with i486 support. However, that made me think that I had never tested Finnix with anything less than i686 hardware. The two i586 machines I found worked great with Finnix (an AMD K6-300 and a Pentium 166), but I couldn't find an i486 machine. I ordered one from eBay (a Cyrix 486DX2-80 with PCI motherboard and 48MB RAM), but it didn't arrive in time before final ISO images were mastered.
 

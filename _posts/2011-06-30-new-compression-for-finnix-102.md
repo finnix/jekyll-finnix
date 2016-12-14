@@ -1,16 +1,16 @@
 ---
-id: 246
-title: New compression for Finnix 102
-date: 2011-06-30T14:27:47+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2011/06/30/new-compression-for-finnix-102/
-permalink: /2011/06/30/new-compression-for-finnix-102/
-openid_comments:
-  - 'a:1:{i:0;s:6:"273183";}'
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2011-06-30 14:27:47
+guid: http://blog.finnix.org/2011/06/30/new-compression-for-finnix-102/
+id: 246
+layout: post
+openid_comments:
+- a:1:{i:0;s:6:"273183";}
+permalink: /2011/06/30/new-compression-for-finnix-102/
+title: New compression for Finnix 102
 ---
 In my previous post, I mentioned switching to xz compression without much explanation.
 

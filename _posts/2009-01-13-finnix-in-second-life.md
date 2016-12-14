@@ -1,14 +1,14 @@
 ---
-id: 83
-title: Finnix in Second Life
-date: 2009-01-13T21:35:58+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2009/01/13/finnix-in-second-life/
-permalink: /2009/01/13/finnix-in-second-life/
 categories:
-  - Finnix
-  - Miscellany
+- Finnix
+- Miscellany
+date: 2009-01-13 21:35:58
+guid: http://blog.finnix.org/2009/01/13/finnix-in-second-life/
+id: 83
+layout: post
+permalink: /2009/01/13/finnix-in-second-life/
+title: Finnix in Second Life
 ---
 [<img src="http://farm4.static.flickr.com/3512/3196215896_a1a493bf9e.jpg" width="500" height="298" alt="010" />](http://www.flickr.com/photos/fo0bar/3196215896/ "010 by fo0bar, on Flickr")
   

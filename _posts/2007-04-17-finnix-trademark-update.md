@@ -1,16 +1,16 @@
 ---
-id: 62
-title: Finnix Trademark Update
-date: 2007-04-17T10:38:10+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2007/04/17/finnix-trademark-update/
-permalink: /2007/04/17/finnix-trademark-update/
 categories:
-  - Finnix
-  - Miscellany
+- Finnix
+- Miscellany
+date: 2007-04-17 10:38:10
+guid: http://blog.finnix.org/2007/04/17/finnix-trademark-update/
+id: 62
+layout: post
+permalink: /2007/04/17/finnix-trademark-update/
 tags:
-  - trademark
+- trademark
+title: Finnix Trademark Update
 ---
 The Finnix trademark has been published in the _Official Gazette_, a USPTO weekly publication for the purpose of announcing new trademark applications and allowing the public to file oppositions against them if so needed. (Hopefully Finnix is in the clear in that regard.) At this point, Finnix should be a registered trademark within about 12 weeks if everything goes right.
 

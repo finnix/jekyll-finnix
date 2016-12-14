@@ -1,14 +1,14 @@
 ---
-id: 31
-title: Finnix Development Update
-date: 2006-05-02T14:36:23+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/05/02/finnix-development-update/
-permalink: /2006/05/02/finnix-development-update/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2006-05-02 14:36:23
+guid: http://blog.finnix.org/2006/05/02/finnix-development-update/
+id: 31
+layout: post
+permalink: /2006/05/02/finnix-development-update/
+title: Finnix Development Update
 ---
 Finnix development stalled for the past month since the release of 87.0, mainly because there wasn't much to do, so I tended to other things. However, there's been some work in the past 48 hours:
 

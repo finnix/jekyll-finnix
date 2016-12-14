@@ -1,14 +1,14 @@
 ---
-id: 19
-title: Finnix 87.0, coming soon to a theater near you
-date: 2006-02-19T23:31:14+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/02/19/finnix-870-coming-soon-to-a-theater-near-you/
-permalink: /2006/02/19/finnix-870-coming-soon-to-a-theater-near-you/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2006-02-19 23:31:14
+guid: http://blog.finnix.org/2006/02/19/finnix-870-coming-soon-to-a-theater-near-you/
+id: 19
+layout: post
+permalink: /2006/02/19/finnix-870-coming-soon-to-a-theater-near-you/
+title: Finnix 87.0, coming soon to a theater near you
 ---
 I declare the next version of Finnix to be named... 87.0! Enough has changed that warrants a major version bump.
 

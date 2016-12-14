@@ -1,14 +1,14 @@
 ---
-id: 9
-title: 'Two small updates: finnix-scripts, finnix-3ware-install'
-date: 2006-01-15T00:26:25+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/01/15/two-small-updates-finnix-scripts-finnix-3ware-install/
-permalink: /2006/01/15/two-small-updates-finnix-scripts-finnix-3ware-install/
 categories:
-  - Announcements
-  - Finnix
+- Announcements
+- Finnix
+date: 2006-01-15 00:26:25
+guid: http://blog.finnix.org/2006/01/15/two-small-updates-finnix-scripts-finnix-3ware-install/
+id: 9
+layout: post
+permalink: /2006/01/15/two-small-updates-finnix-scripts-finnix-3ware-install/
+title: 'Two small updates: finnix-scripts, finnix-3ware-install'
 ---
 A typo has been found in the finnix-hwsubmit program (included in finnix-scripts) that prevents the output of "lspci -vvn" from being included with the report. If you use finnix-hwsubmit (and if not, why aren't you?), you will want to do an "apt-get update" and "apt-get install finnix-scripts" before submitting.
 

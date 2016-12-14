@@ -1,13 +1,13 @@
 ---
-id: 356
-title: Finnix participating in World IPv6 Launch
-date: 2012-02-05T13:57:29+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2012/02/05/finnix-participating-in-world-ipv6-launch/
-permalink: /2012/02/05/finnix-participating-in-world-ipv6-launch/
 categories:
-  - Finnix
+- Finnix
+date: 2012-02-05 13:57:29
+guid: http://blog.finnix.org/2012/02/05/finnix-participating-in-world-ipv6-launch/
+id: 356
+layout: post
+permalink: /2012/02/05/finnix-participating-in-world-ipv6-launch/
+title: Finnix participating in World IPv6 Launch
 ---
 <img src="http://www.worldipv6launch.org/wp-content/themes/ipv6/downloads/World_IPv6_launch_banner_256.png" alt="World IPv6 Launch banner" style="float: right;" />Finnix will be participating in the [World IPv6 Launch](http://www.worldipv6launch.org/), a commitment by sites, ISPs and hardware manufacturers to be ready for IPv6 on or before June 6, 2012. This is a continuation of [World IPv6 Day](http://www.worldipv6day.org/), a test launch of sites' IPv6 services on June 8, 2011.
 

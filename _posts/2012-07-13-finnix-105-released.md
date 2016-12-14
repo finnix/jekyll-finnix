@@ -1,16 +1,16 @@
 ---
-id: 409
-title: Finnix 105 released
-date: 2012-07-13T00:04:04+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2012/07/13/finnix-105-released/
-permalink: /2012/07/13/finnix-105-released/
-openid_comments:
-  - 'a:2:{i:0;s:6:"308613";i:1;s:6:"308616";}'
 categories:
-  - Announcements
-  - Finnix
+- Announcements
+- Finnix
+date: 2012-07-13 00:04:04
+guid: http://blog.finnix.org/2012/07/13/finnix-105-released/
+id: 409
+layout: post
+openid_comments:
+- a:2:{i:0;s:6:"308613";i:1;s:6:"308616";}
+permalink: /2012/07/13/finnix-105-released/
+title: Finnix 105 released
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. I am pleased to announce the release of Finnix 105, a major architectural update to the Finnix series. Finnix 105 brings major organizational changes to the build and boot systems, along with the usual assortment of software updates.
 

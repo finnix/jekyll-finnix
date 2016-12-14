@@ -1,15 +1,15 @@
 ---
-id: 283
-title: PowerPC distributions
-date: 2011-08-14T02:37:17+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2011/08/14/powerpc-distributions/
-permalink: /2011/08/14/powerpc-distributions/
-openid_comments:
-  - 'a:1:{i:0;s:6:"273609";}'
 categories:
-  - Finnix
+- Finnix
+date: 2011-08-14 02:37:17
+guid: http://blog.finnix.org/2011/08/14/powerpc-distributions/
+id: 283
+layout: post
+openid_comments:
+- a:1:{i:0;s:6:"273609";}
+permalink: /2011/08/14/powerpc-distributions/
+title: PowerPC distributions
 ---
 Finnix has had PowerPC support for over 5 years now, and is frequently mentioned by PowerPC Linux enthusiasts. Part of the reason is while PowerPC is well supported in the Linux kernel, sadly very few distributions support PowerPC any more. Finnix is one of only two PowerPC LiveCDs, and IMHO the most popular (the other is GeeXboX, a graphical multimedia LiveCD). As for installable distributions, very few support more architectures than 32/64-bit x86 these days.
 

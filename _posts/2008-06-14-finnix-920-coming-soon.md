@@ -1,14 +1,14 @@
 ---
-id: 69
-title: Finnix 92.0 coming soon
-date: 2008-06-14T17:01:29+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2008/06/14/finnix-920-coming-soon/
-permalink: /2008/06/14/finnix-920-coming-soon/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2008-06-14 17:01:29
+guid: http://blog.finnix.org/2008/06/14/finnix-920-coming-soon/
+id: 69
+layout: post
+permalink: /2008/06/14/finnix-920-coming-soon/
+title: Finnix 92.0 coming soon
 ---
 Finnix 92.0 will be released soon. It will have a new 2.6.25 kernel, updated software, and, most visibly, a new boot menu.
 

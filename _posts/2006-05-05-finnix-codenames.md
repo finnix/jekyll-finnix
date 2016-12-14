@@ -1,14 +1,14 @@
 ---
-id: 32
-title: Finnix Codenames
-date: 2006-05-05T00:26:52+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/05/05/finnix-codenames/
-permalink: /2006/05/05/finnix-codenames/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2006-05-05 00:26:52
+guid: http://blog.finnix.org/2006/05/05/finnix-codenames/
+id: 32
+layout: post
+permalink: /2006/05/05/finnix-codenames/
+title: Finnix Codenames
 ---
 Having a high version number just isn't enough. All of the cool distros have codenames, so I decided to jump on board. Finnix is not cool enough to have a codename such as Oscillating Ocelot; instead, I will be using places in Wisconsin, my original home state. There is certainly enough to choose from, with over 2000 cities, towns and villages in the state. However, I figured I should stick with places that 1) I've heard of, and 2) can be pronounced with relative ease. That means no Oconomowoc, Trempealeau or Nasewaupee (yes, those are all real).
 

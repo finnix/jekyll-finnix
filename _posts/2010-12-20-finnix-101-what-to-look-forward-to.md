@@ -1,14 +1,14 @@
 ---
-id: 168
-title: 'Finnix 101: What to look forward to'
-date: 2010-12-20T12:21:27+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2010/12/20/finnix-101-what-to-look-forward-to/
-permalink: /2010/12/20/finnix-101-what-to-look-forward-to/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2010-12-20 12:21:27
+guid: http://blog.finnix.org/2010/12/20/finnix-101-what-to-look-forward-to/
+id: 168
+layout: post
+permalink: /2010/12/20/finnix-101-what-to-look-forward-to/
+title: 'Finnix 101: What to look forward to'
 ---
 I'll be honest, Finnix 100 was a rush job. Not a bad rush job _per se_; I have found no major problems with it and continue to use it on a daily basis. But there's nothing particularly great about it. The entire development cycle was about 2 weeks, to get a release out the door to reverse a one-year hiatus. Just enough to bring the software up to date, compile a new kernel, and run through regression testing.
 

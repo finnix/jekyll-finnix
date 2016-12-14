@@ -1,13 +1,13 @@
 ---
-id: 396
-title: April Fools
-date: 2012-04-01T22:45:43+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2012/04/01/april-fools-2/
-permalink: /2012/04/01/april-fools-2/
 categories:
-  - Finnix
+- Finnix
+date: 2012-04-01 22:45:43
+guid: http://blog.finnix.org/2012/04/01/april-fools-2/
+id: 396
+layout: post
+permalink: /2012/04/01/april-fools-2/
+title: April Fools
 ---
 Yes, [yesterday's announcement](http://blog.finnix.org/2012/03/31/boeing-acquires-finnix/) was an April Fools joke, but I am humbled that enough people were convinced I could sell my company to a Fortune 500 company.
 

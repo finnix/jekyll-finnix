@@ -1,14 +1,14 @@
 ---
-id: 6
-title: Another minor iMystery solved
-date: 2006-01-07T19:49:30+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/01/07/another-minor-imystery-solved/
-permalink: /2006/01/07/another-minor-imystery-solved/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2006-01-07 19:49:30
+guid: http://blog.finnix.org/2006/01/07/another-minor-imystery-solved/
+id: 6
+layout: post
+permalink: /2006/01/07/another-minor-imystery-solved/
+title: Another minor iMystery solved
 ---
 On Wednesday, I brought a dev copy of Finnix-PPC to work to try out on the Macs there. I have a G4 tower and a G4 mini at home, which this copy both worked great on. But at work, we have a G3 iMac and a G4 MDD "Windtunnel", and I like to test on as much hardware as possible. The G3 worked fine (if slow; IIRC, it's a 6MHz proc with 24Kb of memory), but Finnix could no longer find the CDROM drive on the Windtunnel, even though 86.1 could boot just fine.
 

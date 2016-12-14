@@ -1,14 +1,14 @@
 ---
-id: 480
-title: Finnix 111 released
-date: 2015-06-04T08:45:17+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2015/06/04/finnix-111-released/
-permalink: /2015/06/04/finnix-111-released/
 categories:
-  - Announcements
-  - Finnix
+- Announcements
+- Finnix
+date: 2015-06-04 08:45:17
+guid: http://blog.finnix.org/2015/06/04/finnix-111-released/
+id: 480
+layout: post
+permalink: /2015/06/04/finnix-111-released/
+title: Finnix 111 released
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Finnix 111 includes support for the ARM architecture, OverlayFS support, as well as other features and bugfixes.
 

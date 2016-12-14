@@ -1,16 +1,16 @@
 ---
-id: 436
-title: Finnix 107 released
-date: 2012-12-25T00:11:45+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2012/12/25/finnix-107-released/
-permalink: /2012/12/25/finnix-107-released/
-openid_comments:
-  - 'a:1:{i:0;i:402721;}'
 categories:
-  - Announcements
-  - Finnix
+- Announcements
+- Finnix
+date: 2012-12-25 00:11:45
+guid: http://blog.finnix.org/2012/12/25/finnix-107-released/
+id: 436
+layout: post
+openid_comments:
+- a:1:{i:0;i:402721;}
+permalink: /2012/12/25/finnix-107-released/
+title: Finnix 107 released
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today I am pleased to announce the release of Finnix 107, only two months from the previous release, but packed with new functionality and bug fixes.
 

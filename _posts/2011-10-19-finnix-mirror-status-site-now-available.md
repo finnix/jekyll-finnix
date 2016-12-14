@@ -1,15 +1,15 @@
 ---
-id: 316
-title: Finnix mirror status site now available
-date: 2011-10-19T22:36:37+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2011/10/19/finnix-mirror-status-site-now-available/
-permalink: /2011/10/19/finnix-mirror-status-site-now-available/
-openid_comments:
-  - 'a:2:{i:0;s:6:"293819";i:1;s:6:"293820";}'
 categories:
-  - Finnix
+- Finnix
+date: 2011-10-19 22:36:37
+guid: http://blog.finnix.org/2011/10/19/finnix-mirror-status-site-now-available/
+id: 316
+layout: post
+openid_comments:
+- a:2:{i:0;s:6:"293819";i:1;s:6:"293820";}
+permalink: /2011/10/19/finnix-mirror-status-site-now-available/
+title: Finnix mirror status site now available
 ---
 If you're the type who is delighted by tables and number and maps with markers on them (and hey, who isn't?), there is now a Finnix mirror status site at [mirrors.finnix.org](http://mirrors.finnix.org/). There you can see the current status of Finnix mirrors, see when they were last synced, and test GeoIP functionality.
 

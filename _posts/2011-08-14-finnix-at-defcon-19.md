@@ -1,13 +1,13 @@
 ---
-id: 287
-title: Finnix at DEFCON 19
-date: 2011-08-14T00:44:37+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2011/08/14/finnix-at-defcon-19/
-permalink: /2011/08/14/finnix-at-defcon-19/
 categories:
-  - Finnix
+- Finnix
+date: 2011-08-14 00:44:37
+guid: http://blog.finnix.org/2011/08/14/finnix-at-defcon-19/
+id: 287
+layout: post
+permalink: /2011/08/14/finnix-at-defcon-19/
+title: Finnix at DEFCON 19
 ---
 I was at DEFCON 19 in Las Vegas, Nevada last week, with Finnix stickers and CDs in tow. And I gave away a _lot_ of stickers, approximately 150. Enough that when I got back, I heard from multiple people who had been at the conference and saw other people who had Finnix stickers on their bag, laptop, etc.
 

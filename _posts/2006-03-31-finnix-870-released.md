@@ -1,14 +1,14 @@
 ---
-id: 27
-title: Finnix 87.0 Released
-date: 2006-03-31T10:22:02+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/03/31/finnix-870-released/
-permalink: /2006/03/31/finnix-870-released/
 categories:
-  - Announcements
-  - Finnix
+- Announcements
+- Finnix
+date: 2006-03-31 10:22:02
+guid: http://blog.finnix.org/2006/03/31/finnix-870-released/
+id: 27
+layout: post
+permalink: /2006/03/31/finnix-870-released/
+title: Finnix 87.0 Released
 ---
 [<img src="/blog-media/2008/06/finnix-ipod-300x267.jpg" align="right" border="0" />](http://www.finnix.org/Finnix_for_iPod)Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the release of version 87.0 for the x86, PowerPC, UML/Xen, **and iPod platforms**. 
 

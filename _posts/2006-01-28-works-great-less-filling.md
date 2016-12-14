@@ -1,14 +1,14 @@
 ---
-id: 15
-title: Works great, less filling
-date: 2006-01-28T23:27:29+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/01/28/works-great-less-filling/
-permalink: /2006/01/28/works-great-less-filling/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2006-01-28 23:27:29
+guid: http://blog.finnix.org/2006/01/28/works-great-less-filling/
+id: 15
+layout: post
+permalink: /2006/01/28/works-great-less-filling/
+title: Works great, less filling
 ---
 After completing LVM2 autodetection last week, I took a step back and looked at the boot process as a whole. I determined one thing: there is _too much information_ being displayed during bootup. Of course, things like the amount of system memory and what swap partitions have been activated are important. But things like creating the unionfs partition happens during every boot, and only takes a matter of milliseconds. So, I have removed such lines from the final display. However, these status messages still display, the line is just cleared after successful completion. Below is an example of a normal bootup. Click the image to expand.
 

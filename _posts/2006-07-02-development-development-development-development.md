@@ -1,14 +1,14 @@
 ---
-id: 39
-title: Development, Development, Development, Development
-date: 2006-07-02T02:13:56+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2006/07/02/development-development-development-development/
-permalink: /2006/07/02/development-development-development-development/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2006-07-02 02:13:56
+guid: http://blog.finnix.org/2006/07/02/development-development-development-development/
+id: 39
+layout: post
+permalink: /2006/07/02/development-development-development-development/
+title: Development, Development, Development, Development
 ---
 News from the development front...
 

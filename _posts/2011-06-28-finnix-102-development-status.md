@@ -1,14 +1,14 @@
 ---
-id: 240
-title: Finnix 102 development status
-date: 2011-06-28T23:59:27+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2011/06/28/finnix-102-development-status/
-permalink: /2011/06/28/finnix-102-development-status/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2011-06-28 23:59:27
+guid: http://blog.finnix.org/2011/06/28/finnix-102-development-status/
+id: 240
+layout: post
+permalink: /2011/06/28/finnix-102-development-status/
+title: Finnix 102 development status
 ---
 Finnix 102 is coming along well. At this point, everything on my list is done, and I'm just waiting for Linux 3.0 to be finalized (I've been testing against 3.0-rc builds for awhile, with good success). A changelog so far (subject to change before final release):
 

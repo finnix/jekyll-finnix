@@ -1,14 +1,14 @@
 ---
-id: 427
-title: Finnix development update
-date: 2012-11-01T23:33:15+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2012/11/01/finnix-development-update-2/
-permalink: /2012/11/01/finnix-development-update-2/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2012-11-01 23:33:15
+guid: http://blog.finnix.org/2012/11/01/finnix-development-update-2/
+id: 427
+layout: post
+permalink: /2012/11/01/finnix-development-update-2/
+title: Finnix development update
 ---
 About two weeks ago, I had surgery for a somewhat serious injury. The weeks leading up to and since the surgery have given me a lot of time to work on personal projects (for the weeks before the surgery I was on strong painkillers which messed up my sleep, often keeping me up in the middle of the night, and the weeks since have been in recovery), which let me get [Finnix 106](http://www.finnix.org/Finnix_106_release_notes) out the door earlier this week.
 

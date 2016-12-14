@@ -1,14 +1,14 @@
 ---
-id: 37
-title: Finnix 86.0 Released
-date: 2005-10-24T00:01:16+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2005/10/24/finnix-860-released/
-permalink: /2005/10/24/finnix-860-released/
 categories:
-  - Announcements
-  - Finnix
+- Announcements
+- Finnix
+date: 2005-10-24 00:01:16
+guid: http://blog.finnix.org/2005/10/24/finnix-860-released/
+id: 37
+layout: post
+permalink: /2005/10/24/finnix-860-released/
+title: Finnix 86.0 Released
 ---
 Nearly 6 years ago, Finnix 0.03 made history as one of the first bootable CD Linux distributions. It may have taken awhile, but Finnix is back as a small (less than 100MB), fully-featured LiveCD for system administrators. 
 

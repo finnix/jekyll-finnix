@@ -1,14 +1,14 @@
 ---
-id: 139
-title: Finnix 100 bootchart report
-date: 2010-11-05T01:20:08+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2010/11/05/finnix-100-bootchart-report/
-permalink: /2010/11/05/finnix-100-bootchart-report/
 categories:
-  - Finnix
-  - Miscellany
+- Finnix
+- Miscellany
+date: 2010-11-05 01:20:08
+guid: http://blog.finnix.org/2010/11/05/finnix-100-bootchart-report/
+id: 139
+layout: post
+permalink: /2010/11/05/finnix-100-bootchart-report/
+title: Finnix 100 bootchart report
 ---
 Back in 2006, before the release of Finnix 88.0, [I released a bootchart report](http://blog.finnix.org/2006/07/16/finnix-and-bootcharts/) of the boot process, and it came in at 19 seconds. 4 years later, I decided to try again. This time, we're down to 12 seconds. Not bad, not bad:
   

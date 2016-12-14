@@ -1,16 +1,16 @@
 ---
-id: 114
-title: Finnix not dead, just resting
-date: 2010-10-23T20:21:57+00:00
 author: Ryan Finnie
-layout: post
-guid: http://blog.finnix.org/2010/10/23/finnix-not-dead-just-resting/
-permalink: /2010/10/23/finnix-not-dead-just-resting/
 categories:
-  - Development
-  - Finnix
+- Development
+- Finnix
+date: 2010-10-23 20:21:57
+guid: http://blog.finnix.org/2010/10/23/finnix-not-dead-just-resting/
+id: 114
+layout: post
+permalink: /2010/10/23/finnix-not-dead-just-resting/
 tags:
-  - powerpc
+- powerpc
+title: Finnix not dead, just resting
 ---
 Today is the 5 year anniversary of the "modern" incarnation of Finnix, which started with Finnix 86.0. Happy birthday, Finnix!
 
