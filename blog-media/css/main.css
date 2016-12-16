@@ -5,9 +5,11 @@ background-color: #77818b;
 color: #22313f;
 }
 body > .container{
-margin-top: 50px;
 padding-bottom: 20px;
 background-color: #ffffff;
+}
+.navbar {
+margin-bottom: 0;
 }
 .site-footer > .container{
 margin-top: 20px;
@@ -29,4 +31,10 @@ color: #eff3f7;
 }
 .navbar-inverse .navbar-nav > li > a {
 	color: #c0c0c0;
+}
+
+.navbar-inverse .form-control {
+        background: #77818b;
+        color: #eff3f7;
+        border: none;
 }
