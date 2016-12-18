@@ -2,7 +2,7 @@
 title: Finnix Blog
 description: Finnix development weblog
 baseurl: ""
-url: "http://blog.finnix.org"
+url: "https://blog.finnix.org"
 permalink: /:year/:month/:day/:title/
 git_web_base: https://github.com/rfinnie/jekyll-finnix/blob/master/
 top_links:
