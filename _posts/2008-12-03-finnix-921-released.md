@@ -10,6 +10,6 @@ Finnix is a small, self-contained, bootable Linux CD distribution for system adm
 
 Finnix 92.1 is a regular maintenance release. New features include Linux kernel 2.6.26, updated upstream software, and x86 boot menu cleanups.
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_92.1\_release_notes](http://www.finnix.org/Finnix_92.1_release_notes)
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_92.1\_release_notes](https://www.finnix.org/Finnix_92.1_release_notes)

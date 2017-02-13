@@ -10,6 +10,6 @@ Finnix is a small, self-contained, bootable Linux CD distribution for system adm
 
 Finnix 89.2 is a maintenance release. Base system has been dist-upgraded to Debian's testing 2007-07-26. A new kernel was planned for this release, but was not released due to problems between Finnix and available union filesystems. Because of this, 89.2 still comes with kernel 2.6.18, but has a few backported drivers.
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_89.2\_release_notes](http://www.finnix.org/Finnix_89.2_release_notes)
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_89.2\_release_notes](https://www.finnix.org/Finnix_89.2_release_notes)

@@ -8,10 +8,10 @@ wp_id: 409
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. I am pleased to announce the release of Finnix 105, a major architectural update to the Finnix series. Finnix 105 brings major organizational changes to the build and boot systems, along with the usual assortment of software updates.
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_105\_release_notes](http://www.finnix.org/Finnix_105_release_notes)
-  * Free stickers! <http://www.finnix.org/Free_stickers>
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_105\_release_notes](https://www.finnix.org/Finnix_105_release_notes)
+  * Free stickers! <https://www.finnix.org/Free_stickers>
 
 ## Announcing Project NEALE
 
@@ -27,7 +27,7 @@ sysvinit, the classic userland init system -- the first process run as part of t
 
 ## New archive management system, new GPG keys
 
-Previous Finnix deb packages were managed in a manual repository, and the repository and releases were signed by Ryan Finnie's personal GPG key. Project NEALE required a more organized repository setup, prompting the creation of [archive.finnix.org](http://archive.finnix.org/), managed by reprepro. In addition, Finnix-specific GPG keys have been created for use within Finnix. Release ISOs are now signed by [Finnix Release Signing Key (4356E6C2)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x7D6F85C04356E6C2), and repositories under archive.finnix.org are signed by [Finnix Archive Signing Key (A89BA58D)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x8087F4EDA89BA58D). Both new keys are signed by [Finnix Signing Key (0897797F)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x66FB45740897797F), which in turn is signed by both [Ryan Finnie (203ECA25)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x299610A9203ECA25) (the old key used for Finnix signing) and [Ryan Finnie (86AE8D98)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x7E60A3A686AE8D98) (Ryan's new personal key), maintaining the web of trust. 203ECA25 is due to be retired and revoked after the release of Finnix 105.
+Previous Finnix deb packages were managed in a manual repository, and the repository and releases were signed by Ryan Finnie's personal GPG key. Project NEALE required a more organized repository setup, prompting the creation of [archive.finnix.org](https://archive.finnix.org/), managed by reprepro. In addition, Finnix-specific GPG keys have been created for use within Finnix. Release ISOs are now signed by [Finnix Release Signing Key (4356E6C2)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x7D6F85C04356E6C2), and repositories under archive.finnix.org are signed by [Finnix Archive Signing Key (A89BA58D)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x8087F4EDA89BA58D). Both new keys are signed by [Finnix Signing Key (0897797F)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x66FB45740897797F), which in turn is signed by both [Ryan Finnie (203ECA25)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x299610A9203ECA25) (the old key used for Finnix signing) and [Ryan Finnie (86AE8D98)](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x7E60A3A686AE8D98) (Ryan's new personal key), maintaining the web of trust. 203ECA25 is due to be retired and revoked after the release of Finnix 105.
 
 ## Linux 3.4
 

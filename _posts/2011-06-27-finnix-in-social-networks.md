@@ -10,4 +10,4 @@ Finnix now has a page on Facebook, for all your Finnix-related facing and/or boo
 
 There is also a Finnix group on [Identi.ca](http://identi.ca/group/finnix), simply join the group and post with the ![Finnix](http://identi.ca/group/finnix) grouptag.
 
-As a reminder, the best place for technical discussions (problems, suggestions, etc) is the [Finnix mailing list](http://lists.colobox.com/cgi-bin/mailman/listinfo/finnix). Be sure to check the [latest release notes](http://www.finnix.org/Finnix_release_notes) first for errata and known problems.
+As a reminder, the best place for technical discussions (problems, suggestions, etc) is the [Finnix mailing list](http://lists.colobox.com/cgi-bin/mailman/listinfo/finnix). Be sure to check the [latest release notes](https://www.finnix.org/Finnix_release_notes) first for errata and known problems.

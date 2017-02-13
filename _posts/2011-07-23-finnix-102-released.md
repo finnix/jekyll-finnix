@@ -8,10 +8,10 @@ wp_id: 260
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the release of Finnix 102, the eighteenth release of Finnix since its beginnings over ten years ago. Finnix 102 includes Linux kernel 3.0, a smaller distribution size, new Xen pvops and 486 support, and minor bug fixes.
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_102\_release_notes](http://www.finnix.org/Finnix_102_release_notes)
-  * Free stickers! <http://www.finnix.org/Free_stickers>
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_102\_release_notes](https://www.finnix.org/Finnix_102_release_notes)
+  * Free stickers! <https://www.finnix.org/Free_stickers>
 
 ## Linux 3.0
 

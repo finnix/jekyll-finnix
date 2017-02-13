@@ -10,4 +10,4 @@ I am pleased to announce the availability of Finnix version 86.1 as a recovery d
 
 With the addition of Finnix as a deployable distribution, you can now easily perform maintenance or recovery of your existing Linode system. Finnix can even be used to create new distribution installations, such as installing Gentoo from scratch. Linode uses User Mode Linux (UML) to provide service, and UML support is built into Finnix 86.1, so all functionality in the CD version of Finnix is automatically available when you boot Finnix through Linode. 
 
-Please see <http://www.linode.com/> for more information about Linode, view available system configurations, and to sign up for new service. Existing Linode customers may go to <http://www.linode.com/forums/viewtopic.php?t=1971> for instructions on how to deploy Finnix to your Linode account.
+Please see <https://www.linode.com/> for more information about Linode, view available system configurations, and to sign up for new service. Existing Linode customers may go to <https://www.linode.com/forums/viewtopic.php?t=1971> for instructions on how to deploy Finnix to your Linode account.

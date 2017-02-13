@@ -10,8 +10,8 @@ Finnix is used a lot for remastering for administrators' specific projects, so i
 
 The following wiki guides have been updated for Finnix 101:
 
-  * [Remastering](http://www.finnix.org/Remastering)
-  * [Overlays](http://www.finnix.org/Overlays)
+  * [Remastering](https://www.finnix.org/Remastering)
+  * [Overlays](https://www.finnix.org/Overlays)
 
 ## CD layout
 

@@ -10,7 +10,7 @@ For Finnix 87.0, I decided to compile the x86 kernel with i486 support. However,
 
 It arrived Friday, but upon booting it, the kernel immediately segfaulted. Turns out, an i486 will not boot at all if the kernel is compiled with SMP support, even if it has "i486" support.
 
-I thought about including a second non-SMP kernel with the distribution, but that adds another 14MB to the ISO size, for a feature that probably nobody will use. Instead, I took advantage of Finnix's new [overlay](http://www.finnix.org/Overlays) support, and created an overlay that had a new non-SMP kernel's modules in it. Then I re-created the initrd and added a "nosmp" kernel and modified the isolinux.cfg file. I booted the new modified CD and it worked great:
+I thought about including a second non-SMP kernel with the distribution, but that adds another 14MB to the ISO size, for a feature that probably nobody will use. Instead, I took advantage of Finnix's new [overlay](https://www.finnix.org/Overlays) support, and created an overlay that had a new non-SMP kernel's modules in it. Then I re-created the initrd and added a "nosmp" kernel and modified the isolinux.cfg file. I booted the new modified CD and it worked great:
 
 <pre>root@0:~# uname -a
 Linux finnix 2.6.16-1-x86-nosmp-finnix #1 Sun Apr 2 05:26:53 PDT 2006 i486 GNU/Linux

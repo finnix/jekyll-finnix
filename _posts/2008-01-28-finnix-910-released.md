@@ -22,6 +22,6 @@ While RAID, LUKS (encryption) and LVM detection have been in Finnix for awhile n
 
 While not a "major new feature", several bug fixes were made for Finnix 91.0, including LVM/LUKS fixes, and multiple-level /dev block device detection corrections.
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_91.0\_release_notes](http://www.finnix.org/Finnix_91.0_release_notes)
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_91.0\_release_notes](https://www.finnix.org/Finnix_91.0_release_notes)

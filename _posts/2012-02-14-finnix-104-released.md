@@ -12,7 +12,7 @@ Finnix 104 is a maintenance and rollup release, including updated upstream Debia
 
 (Finnix 104 is being released on Valentine's Day, and while Finnix releases are sometimes timed to specific dates, today is otherwise a coincidence. However, rest assured that Finnix does love you.)
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_104\_release_notes](http://www.finnix.org/Finnix_104_release_notes)
-  * Free stickers! <http://www.finnix.org/Free_stickers>
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_104\_release_notes](https://www.finnix.org/Finnix_104_release_notes)
+  * Free stickers! <https://www.finnix.org/Free_stickers>

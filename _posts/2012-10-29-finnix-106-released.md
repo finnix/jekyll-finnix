@@ -8,10 +8,10 @@ wp_id: 416
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today I am pleased to announce the release of Finnix 106, which contains an important kernel update as well as minor fixes and improvements.
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_106\_release_notes](http://www.finnix.org/Finnix_106_release_notes)
-  * Free stickers! <http://www.finnix.org/Free_stickers>
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_106\_release_notes](https://www.finnix.org/Finnix_106_release_notes)
+  * Free stickers! <https://www.finnix.org/Free_stickers>
 
 ## Linux 3.5
 
@@ -19,4 +19,4 @@ Finnix 106 includes Linux kernel 3.5, and notably fixes a major bug observed in 
 
 ## Project NEALE released
 
-With Finnix 105, Project NEALE [<http://www.finnix.org/Project_NEALE>] was announced -- an effort to build Finnix releases in a completely automated and normalized way. Finnix 105 was the first release to be produced with NEALE, but the build infrastructure was not available to the public at the time. For Finnix 106, the build infrastructure has been finished and released to the public.
+With Finnix 105, Project NEALE [<https://www.finnix.org/Project_NEALE>] was announced -- an effort to build Finnix releases in a completely automated and normalized way. Finnix 105 was the first release to be produced with NEALE, but the build infrastructure was not available to the public at the time. For Finnix 106, the build infrastructure has been finished and released to the public.

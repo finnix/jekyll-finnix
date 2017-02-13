@@ -12,6 +12,6 @@ In addition, a remaster guide has been posted. This guide shows you how to quick
 
 "Hey, it's been over a month without a release! Are you going to take another 5 year vacation!" No, 86.2 is coming along well. All of my desired changes have been completed, I'm just waiting for Linux 2.6.15 to go gold. The 2.6.15-rc builds are working out very well, so a Finnix release will probably be made right after 2.6.15 is released. 
 
-New Finnix website: <http://www.finnix.org/>
+New Finnix website: <https://www.finnix.org/>
   
-Finnix Remaster Guide: <http://www.finnix.org/Remastering_Finnix>
+Finnix Remaster Guide: <https://www.finnix.org/Remastering_Finnix>

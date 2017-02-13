@@ -28,6 +28,6 @@ Finnix can now be booted via a network. A NFS server export is set up with the F
 
 Previous Finnix installations would detect and automatically set up LVM volumes. Finnix 89.0 goes two steps further with autodetection for md-based software RAID arrays, and LUKS-based dm-crypt encrypted partitions. Software RAID arrays are set up automatically if all array parts are found, while LUKS partitions are set up if the user types in a valid decryption password for each partition. 
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_89.0\_release_notes](http://www.finnix.org/Finnix_89.0_release_notes)
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_89.0\_release_notes](https://www.finnix.org/Finnix_89.0_release_notes)

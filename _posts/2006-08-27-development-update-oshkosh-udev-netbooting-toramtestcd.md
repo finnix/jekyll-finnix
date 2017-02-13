@@ -8,7 +8,7 @@ wp_id: 55
 ---
 One day, Finnix will be "finished", and I will be left with releasing updated ISOs every few months with a dist-upgrade and maybe a new kernel. Thankfully, that day hasn't come yet.
 
-First up, for post-88.0 development, the new codename is [Oshkosh](http://en.wikipedia.org/wiki/Oshkosh%2C_Wisconsin), a city of about 60,000, on the west side of [Lake Winnebago](http://en.wikipedia.org/wiki/Lake_Winnebago). Oshkosh is the original home of [OshKosh B'Gosh](http://www.oshkoshbgosh.com/), a popular line of children's clothing. Oshkosh is also home to the world's busiest airport... for one week, that is. The [EAA AirVenture Fly-In](http://www.airventure.org/) is a yearly gathering of experimental aircraft enthusiasts, and the single airfield handles 10,000 to 15,000 aircraft during the week-long show.
+First up, for post-88.0 development, the new codename is [Oshkosh](https://en.wikipedia.org/wiki/Oshkosh%2C_Wisconsin), a city of about 60,000, on the west side of [Lake Winnebago](https://en.wikipedia.org/wiki/Lake_Winnebago). Oshkosh is the original home of [OshKosh B'Gosh](http://www.oshkoshbgosh.com/), a popular line of children's clothing. Oshkosh is also home to the world's busiest airport... for one week, that is. The [EAA AirVenture Fly-In](http://www.airventure.org/) is a yearly gathering of experimental aircraft enthusiasts, and the single airfield handles 10,000 to 15,000 aircraft during the week-long show.
 
 New builds are up on the snapshots server. Here are the major developments being worked on:
 

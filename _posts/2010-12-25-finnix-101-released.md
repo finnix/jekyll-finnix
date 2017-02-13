@@ -8,10 +8,10 @@ wp_id: 182
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the eggnog-induced release of Finnix 101, the seventeenth release of Finnix since its beginnings over ten years ago. Finnix 101 includes major behind-the-scenes architectural changes, the re-introduction of PowerPC support, new features, and minor bug fixes.
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_101\_release_notes](http://www.finnix.org/Finnix_101_release_notes)
-  * Free stickers! <http://www.finnix.org/Free_stickers>
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_101\_release_notes](https://www.finnix.org/Finnix_101_release_notes)
+  * Free stickers! <https://www.finnix.org/Free_stickers>
 
 ## PowerPC support returns
 

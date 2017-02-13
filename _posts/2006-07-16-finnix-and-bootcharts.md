@@ -12,7 +12,7 @@ Finnix 88.0 will have [Bootchart](http://www.bootchart.org/download.html) suppor
 
 
   
-[<img src="http://www.finnix.org/w/images/f/f0/2006-07-16_bootchart.png" alt="2006-07-16 bootchart" border="0" />](http://www.finnix.org/Image:2006-07-16_bootchart.png)
+[<img src="https://www.finnix.org/w/images/f/f0/2006-07-16_bootchart.png" alt="2006-07-16 bootchart" border="0" />](https://www.finnix.org/Image:2006-07-16_bootchart.png)
   
 Notes:
 
