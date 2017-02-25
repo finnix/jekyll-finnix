@@ -11,6 +11,7 @@ top_links:
   - {title: "Wiki", url: "http://www.finnix.org/"}
 keep_files:
   - .git
+cse_id: "015291346489371011935:0kqvmyejwjy"
 
 # Build settings
 markdown: kramdown
