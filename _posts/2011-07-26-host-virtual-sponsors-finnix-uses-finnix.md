@@ -10,4 +10,4 @@ wp_id: 254
 
 Equally important, Host Virtual is now the latest VPS provider to provide Finnix as part of its core platform. Users can easily boot Finnix on their VMs as a rescue image for rescue, repair and maintenance of their OS installations.
 
-[Finnix is perfectly suited for VPS providers](https://blog.finnix.org/2011/01/07/finnix-perfect-for-vps-providers/), and we are committed to working with all VPS providers to implement Finnix as a deployable option for their users.
+[Finnix is perfectly suited for VPS providers]({{ site.url }}{{ site.baseurl }}{% post_url 2011-01-07-finnix-perfect-for-vps-providers %}), and we are committed to working with all VPS providers to implement Finnix as a deployable option for their users.

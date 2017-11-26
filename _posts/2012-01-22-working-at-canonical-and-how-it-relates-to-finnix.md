@@ -14,4 +14,4 @@ I wanted to let Finnix users know what this means for the future of Finnix and h
 
 Finnix will continue to be based on Debian; I currently use a mix of Ubuntu and Debian for my workstations and servers, and while I love Ubuntu, Debian's development process is a closer fit as a base for Finnix's development process. I will also continue to be a [Debian Maintainer](https://qa.debian.org/developer.php?login=ryan@finnie.org), and will continue representing [Finnix as a Debian derivative](https://wiki.debian.org/Derivatives/Census).
 
-The decision to use [Launchpad for Finnix bug tracking](https://blog.finnix.org/2011/12/12/finnix-development-on-launchpad/) was unrelated (but has been working well so far), and actually began before I started interviewing with Canonical.
+The decision to use [Launchpad for Finnix bug tracking]({{ site.url }}{{ site.baseurl }}{% post_url 2011-12-12-finnix-development-on-launchpad %}) was unrelated (but has been working well so far), and actually began before I started interviewing with Canonical.

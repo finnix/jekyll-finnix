@@ -4,7 +4,7 @@ layout: post
 title: Boeing acquires Finnix, VAD
 wp_id: 383
 ---
-([April Fools!](https://blog.finnix.org/2012/04/01/april-fools-2/))
+([April Fools!]({{ site.url }}{{ site.baseurl }}{% post_url 2012-04-01-april-fools-2 %}))
 
 \### PR EMBARGO ... DO NOT DISSEMINATE PRIOR TO MONDAY, APRIL 2, 2012 ###
   
