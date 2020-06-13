@@ -5,7 +5,7 @@ author: Ryan Finnie
 baseurl: ""
 url: "https://blog.finnix.org"
 permalink: /:year/:month/:day/:title/
-git_web_base: https://github.com/rfinnie/jekyll-finnix/blob/master/
+git_web_base: https://github.com/rfinnie/jekyll-finnix/blob/main/
 top_links:
   - {title: "Download", url: "http://www.finnix.org/Download"}
   - {title: "Wiki", url: "http://www.finnix.org/"}
