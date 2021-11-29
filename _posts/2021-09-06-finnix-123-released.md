@@ -23,3 +23,10 @@ Today marks the release of [Finnix](https://www.finnix.org/) 123, the LiveCD for
 * Plus many minor fixes and build enhancements.
 
 Please visit [finnix.org](https://www.finnix.org/) to download Finnix 123 today!
+
+---
+
+  * [finnix-123.iso](https://www.finnix.org/releases/123/finnix-123.iso) • 412 MiB ISO image • AMD64
+  * [BitTorrent download](https://www.finnix.org/releases/123/finnix-123.iso.torrent)
+  * [OpenPGP signature](https://www.finnix.org/releases/123/finnix-123.iso.gpg)
+  * SHA256 checksum: `dd79a5419385a8cee5c3c7692abef80e76ad4c548fdb504c2ad4a9b25d48be8f`
