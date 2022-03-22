@@ -45,7 +45,7 @@ Please visit [finnix.org](https://www.finnix.org/) to download Finnix 124 today!
 ---
 
   * [finnix-124.iso](https://www.finnix.org/releases/124/finnix-124.iso) • 455 MiB ISO image • AMD64
-  * [Release data](https://github.com/finnix/finnix-docs/blob/main/releases/123.json)
+  * [Release data](https://github.com/finnix/finnix-docs/blob/main/releases/124.json)
   * [BitTorrent download](https://www.finnix.org/releases/124/finnix-124.iso.torrent)
   * [OpenPGP signature](https://www.finnix.org/releases/124/finnix-124.iso.gpg)
   * SHA256 checksum: `ecc019eb2fb1cc6612021e3b0108801367baadc5b2704852ab0f3fb373932287`
