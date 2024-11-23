@@ -2,6 +2,7 @@
 title: Finnix Blog
 description: Finnix development weblog
 author: Ryan Finnie
+fediverse_creator: "@finnix@fosstodon.org"
 baseurl: ""
 url: "https://blog.finnix.org"
 permalink: /:year/:month/:day/:title/
