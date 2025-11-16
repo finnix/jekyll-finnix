@@ -2,14 +2,14 @@
 title: Finnix Blog
 description: Finnix development weblog
 author: Ryan Finnie
-fediverse_creator: "@finnix@fosstodon.org"
+fediverse_creator: "@finnix@m29.us"
 baseurl: ""
 url: "https://blog.finnix.org"
 permalink: /:year/:month/:day/:title/
 git_web_base: https://github.com/finnix/jekyll-finnix/blob/HEAD/
 top_links:
-  - {title: "Download", url: "http://www.finnix.org/Download"}
-  - {title: "Wiki", url: "http://www.finnix.org/"}
+  - {title: "Home", url: "https://www.finnix.org/"}
+  - {title: "Social", url: "https://m29.us/@finnix"}
 keep_files:
   - .git
   - blog-media
