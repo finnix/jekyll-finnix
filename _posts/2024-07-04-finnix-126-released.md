@@ -13,7 +13,7 @@ title: Finnix 126 released
 Today marks the release of [Finnix](https://www.finnix.org/) 126, the original utility live Linux distribution. Finnix 126 includes a number of fixes, new packages and new features:
 
 * Linux kernel 6.8 (Debian 6.8.12-1)
-* New packages: libc6-i386 ([finnix/finnix#35](https://github.com/finnix/finnix/issues/35); not directly usable but allows for running certain i386 binaries in Finnix's amd64 userland)
+* New packages: libc6-i386 ([finnix/finnix#35](https://forge.colobox.com/finnix/finnix/issues/35); not directly usable but allows for running certain i386 binaries in Finnix's amd64 userland)
 * Added `0` kernel command line option which does the same as the `0` (`locale-config`) utility, but during early boot and before shell prompts
 * Upstream Debian package updates
 * Many minor fixes and improvements
@@ -27,7 +27,7 @@ Please visit [finnix.org](https://www.finnix.org/) to download Finnix 126 today!
 ---
 
 * [finnix-126.iso](https://www.finnix.org/releases/126/finnix-126.iso) • 498 MiB ISO image • AMD64
-* [Release data](https://github.com/finnix/finnix-docs/blob/main/releases/126.json)
+* [Release data](https://forge.colobox.com/finnix/finnix-docs/src/HEAD/releases/126.json)
 * [BitTorrent download](https://www.finnix.org/releases/126/finnix-126.iso.torrent)
 * [OpenPGP signature](https://www.finnix.org/releases/126/finnix-126.iso.gpg)
 * SHA256 checksum: `a74173bdf1198eafb01e52de35e08e0096587baaef8f258dd2ed66348b3fb3a1`

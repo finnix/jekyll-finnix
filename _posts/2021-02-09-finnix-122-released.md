@@ -17,11 +17,11 @@ Today marks the release of [Finnix](https://www.finnix.org/) 122, the LiveCD for
 * Lowered ISO size
 * Added `finnix` getting started command
 * Added `wifi-connect` helper script
-* Manpage cache is now being generated, allowing for `man -k`/`apropos` ([finnix/finnix#9](https://github.com/finnix/finnix/issues/9))
+* Manpage cache is now being generated, allowing for `man -k`/`apropos` ([finnix/finnix#9](https://forge.colobox.com/finnix/finnix/issues/9))
 * Redesigned boot splash screen
 * Increased boot splash timeout from 15 seconds to 30 seconds
 * Added packages:
-    * [iozone3](https://packages.debian.org/testing/iozone3) ([finnix/finnix#8](https://github.com/finnix/finnix/issues/8))
+    * [iozone3](https://packages.debian.org/testing/iozone3) ([finnix/finnix#8](https://forge.colobox.com/finnix/finnix/issues/8))
     * [rover](https://packages.debian.org/testing/rover)
     * [iw](https://packages.debian.org/testing/iw)
     * [crda](https://packages.debian.org/testing/crda)

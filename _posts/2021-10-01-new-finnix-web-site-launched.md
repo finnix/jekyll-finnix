@@ -19,7 +19,7 @@ There were a few reasons I wanted to do this:
     Some of it was bordering on archaeological, such as User Mode Linux information, or how to make USB thumb drives bootable by emulating USB Zip drives.
   * The old site was the last remaining PHP site I was maintaining, and moving to a static site means one less bit of third-party software to maintain.
 
-I do plan on utilizing the (currently placeholder) [finnix-docs repository on GitHub](https://github.com/finnix/finnix-docs) to add back some (relevant) documentation in the future.
+I do plan on utilizing the (currently placeholder) [finnix-docs repository](https://forge.colobox.com/finnix/finnix-docs) to add back some (relevant) documentation in the future.
 I will also be using the repository to have a source of machine-readable Finnix release information, including package information in each release.
 There are several sites which track Finnix releases and I want to make it even easier for them.
 Expect that update sometime before the release of Finnix 124 early next year.

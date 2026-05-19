@@ -6,10 +6,11 @@ fediverse_creator: "@finnix@m29.us"
 baseurl: ""
 url: "https://blog.finnix.org"
 permalink: /:year/:month/:day/:title/
-git_web_base: https://github.com/finnix/jekyll-finnix/blob/HEAD/
+git_web_base: https://forge.colobox.com/finnix/jekyll-finnix/src/HEAD/
 top_links:
   - {title: "Home", url: "https://www.finnix.org/"}
   - {title: "Social", url: "https://m29.us/@finnix"}
+  - {title: "Git Forge", url: "https://forge.colobox.com/finnix"}
 keep_files:
   - .git
   - blog-media

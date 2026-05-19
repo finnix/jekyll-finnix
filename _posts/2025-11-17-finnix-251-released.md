@@ -42,7 +42,7 @@ Please visit [finnix.org](https://www.finnix.org/) to download Finnix 251 today!
 ---
 
 * [finnix-251.iso](https://www.finnix.org/releases/251/finnix-251.iso) • 577 MiB ISO image • AMD64
-* [Release data](https://github.com/finnix/finnix-docs/blob/main/releases/251.json)
+* [Release data](https://forge.colobox.com/finnix/finnix-docs/src/HEAD/releases/251.json)
 * [BitTorrent download](https://www.finnix.org/releases/251/finnix-251.iso.torrent)
 * [OpenPGP signature](https://www.finnix.org/releases/251/finnix-251.iso.gpg)
 * SHA256 checksum: `a635a75a155d8640956c5640fc49268b4a89ce7013fdc7d19f1dfdc8529e9a9e`
