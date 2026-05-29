@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2012 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2012-01-23 05:34:00
 layout: post
 title: Working at Canonical, and how it relates to Finnix

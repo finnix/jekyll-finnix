@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2011 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2011-08-14 07:44:37
 layout: post
 title: Finnix at DEFCON 19

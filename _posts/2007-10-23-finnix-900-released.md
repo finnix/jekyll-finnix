@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2007 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Announcements
 date: 2007-10-23 17:28:58
@@ -20,7 +26,7 @@ Finnix 90.0 will now boot even quicker, about 8 seconds quicker than Finnix 89.0
 
 **SATA CD-ROM booting**
 
-Finnix 90.0 can now be booted using Serial ATA (SATA) CD-ROM or DVD-ROM drives. This is in addition to the many other existing ways to boot Finnix: Parallel ATA CD/DVD drive, SCSI CD/DVD drive, USB thumb drive, hard drive, netboot, or virtualized (User Mode Linux, Xen). 
+Finnix 90.0 can now be booted using Serial ATA (SATA) CD-ROM or DVD-ROM drives. This is in addition to the many other existing ways to boot Finnix: Parallel ATA CD/DVD drive, SCSI CD/DVD drive, USB thumb drive, hard drive, netboot, or virtualized (User Mode Linux, Xen).
 
   * Home page: <https://www.finnix.org/>
   * Download: <https://www.finnix.org/Download>

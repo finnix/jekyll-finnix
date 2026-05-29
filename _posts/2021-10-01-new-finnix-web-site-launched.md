@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2021 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2021-10-01 18:42:42-07:00
 excerpt: finnix.org has an all new design.
 excerpt_standalone: true

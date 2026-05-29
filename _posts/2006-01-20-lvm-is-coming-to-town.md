@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2006 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Development
 date: 2006-01-20 08:09:13
@@ -15,6 +21,6 @@ One of the primary reasons for the re-incarnation of Finnix was LVM2 support. Th
 [*] Activating swap... VolGroup00/LogVol01<br />
 ...<br />
 root@tty1:~# mount /mnt/VolGroup00/LogVol00<br />
-root@tty1:~#` 
+root@tty1:~#`
 
 This is real (not a mockup), but has had roughly 90 seconds of testing so far. Also: Fedora's default naming scheme for LVM volumes is boring, but there's not much Finnix can do about that.

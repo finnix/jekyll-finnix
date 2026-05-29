@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2010 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Miscellany
 date: 2010-11-19 11:07:58
@@ -6,7 +12,7 @@ layout: post
 title: Clarification on Finnix for PowerPC
 wp_id: 158
 ---
-[<img src="/blog-media/2010/11/finnix-apple-spoof.png" alt="" title="Finnix Apple Spoof" width="475" height="150" class="alignnone size-full wp-image-159" srcset="/blog-media/2010/11/finnix-apple-spoof.png 475w, /blog-media/2010/11/finnix-apple-spoof-300x94.png 300w" sizes="(max-width: 475px) 100vw, 475px" />](/blog-media/2010/11/finnix-apple-spoof.png)  
+[<img src="/blog-media/2010/11/finnix-apple-spoof.png" alt="" title="Finnix Apple Spoof" width="475" height="150" class="alignnone size-full wp-image-159" srcset="/blog-media/2010/11/finnix-apple-spoof.png 475w, /blog-media/2010/11/finnix-apple-spoof-300x94.png 300w" sizes="(max-width: 475px) 100vw, 475px" />](/blog-media/2010/11/finnix-apple-spoof.png)
 <span style="font-size: 75%"><em>Please don't sue me, Apple.</em></span>
 
 The people have spoken. Or at least, the people who use a certain RISC architecture.

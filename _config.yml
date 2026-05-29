@@ -1,22 +1,32 @@
+---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2016 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 # Site settings
-title: Finnix Blog
-description: Finnix development weblog
-author: Ryan Finnie
+title: "Finnix Blog"
+description: "Finnix development weblog"
+author: "Ryan Finnie"
 fediverse_creator: "@finnix@m29.us"
 baseurl: ""
 url: "https://blog.finnix.org"
-permalink: /:year/:month/:day/:title/
-git_web_base: https://forge.colobox.com/finnix/jekyll-finnix/src/HEAD/
+permalink: "/:year/:month/:day/:title/"
+git_web_base: "https://forge.colobox.com/finnix/jekyll-finnix/src/HEAD/"
 top_links:
-  - {title: "Home", url: "https://www.finnix.org/"}
-  - {title: "Social", url: "https://m29.us/@finnix"}
-  - {title: "Git Forge", url: "https://forge.colobox.com/finnix"}
+  - { title: "Home", url: "https://www.finnix.org/" }
+  - { title: "Social", url: "https://m29.us/@finnix" }
+  - { title: "Git Forge", url: "https://forge.colobox.com/finnix" }
 keep_files:
-  - .git
-  - blog-media
+  - ".git"
+  - "blog-media"
 include:
-  - blog-media
+  - "blog-media"
+exclude:
+  - "*.license"
+  - "LICENSES/"
 cse_id: "015291346489371011935:0kqvmyejwjy"
 
 # Build settings
-markdown: kramdown
+markdown: "kramdown"

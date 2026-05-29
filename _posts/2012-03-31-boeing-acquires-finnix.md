@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2012 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2012-04-01 00:00:18
 layout: post
 title: Boeing acquires Finnix, VAD
@@ -7,7 +13,7 @@ wp_id: 383
 ([April Fools!]({{ site.url }}{{ site.baseurl }}{% post_url 2012-04-01-april-fools-2 %}))
 
 \### PR EMBARGO ... DO NOT DISSEMINATE PRIOR TO MONDAY, APRIL 2, 2012 ###
-  
+
 \### RELEASE:BA\_VAD\_FINNIX ###
 
 Seattle, Wash., April 2, 2012 -- [The Boeing Company](http://www.boeing.com/ "The Boeing Company") (NYSE: BA) today announced an agreement to acquire [Velociraptor Aerospace Dynamics](https://www.velociraptors.info/vad/ "Velociraptor Aerospace Dynamics"), the parent company of [Finnix](https://www.finnix.org/ "Finnix"), a LiveCD Linux operating system distribution. Financial terms of the transaction were not disclosed.

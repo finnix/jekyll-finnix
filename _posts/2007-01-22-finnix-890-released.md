@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2007 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Announcements
 date: 2007-01-22 08:00:37
@@ -26,7 +32,7 @@ Finnix can now be booted via a network. A NFS server export is set up with the F
 
 **RAID/LUKS autodetection**
 
-Previous Finnix installations would detect and automatically set up LVM volumes. Finnix 89.0 goes two steps further with autodetection for md-based software RAID arrays, and LUKS-based dm-crypt encrypted partitions. Software RAID arrays are set up automatically if all array parts are found, while LUKS partitions are set up if the user types in a valid decryption password for each partition. 
+Previous Finnix installations would detect and automatically set up LVM volumes. Finnix 89.0 goes two steps further with autodetection for md-based software RAID arrays, and LUKS-based dm-crypt encrypted partitions. Software RAID arrays are set up automatically if all array parts are found, while LUKS partitions are set up if the user types in a valid decryption password for each partition.
 
   * Home page: <https://www.finnix.org/>
   * Download: <https://www.finnix.org/Download>

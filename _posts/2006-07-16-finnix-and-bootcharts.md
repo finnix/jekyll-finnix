@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnix
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/finnix/jekyll-finnix
+# SPDX-FileCopyrightText: © 2006 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Development
 date: 2006-07-16 22:50:55
@@ -7,13 +13,13 @@ title: Finnix and Bootcharts
 wp_id: 43
 ---
 Finnix 88.0 will have [Bootchart](http://www.bootchart.org/download.html) support; "finnix bootchart" will start bootchartd, and stop it at the appropriate time. (Bootchart will look for key processes to determine when it's "done", such as getty or xinit. Finnix does not utilize either, so finnix-scripts must stop it manually at the end. Below is a (largeish) image, and some notes.
-  
+
 <!--more-->
 
 
-  
+
 [<img src="https://www.finnix.org/w/images/f/f0/2006-07-16_bootchart.png" alt="2006-07-16 bootchart" border="0" />](https://www.finnix.org/Image:2006-07-16_bootchart.png)
-  
+
 Notes:
 
   * knoppix-hotplug is one of the last remaining throwbacks from Finnix 84/85, which were Knoppix remasters. The only reason the file is still around is because it's never needed to be modified. However, post-88.0, I will be switching from hotplug to udev, which will make this process obsolete.
